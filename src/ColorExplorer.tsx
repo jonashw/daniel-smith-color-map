@@ -59,7 +59,7 @@ function ColorExplorer({colors} : {colors: Colors}) {
                 </tr>
               </tbody>
             </table>
-            <img src={activeColor.SwatchUrl} style={{height:'250px'}}/>
+            <img src={activeColor.SwatchUrl} style={{height:'250px'}} alt={"Swatch of " + activeColor.Name}/>
             {
                 colors.thatHaveAConstituent(activeColor)
                 .map(color => <div key={color.Name}>{color.Name}</div>)

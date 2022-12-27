@@ -1,9 +1,7 @@
-import React from 'react';
 //import Konva from 'konva';
-import { Layer, Stage, Text, Rect, Line, Circle, Arrow} from 'react-konva';
+import { Layer, Stage, Text, Line, Circle, Arrow} from 'react-konva';
 import {Color,Colors} from './Color';
 const scale = 4;
-
 
 //new Konva.Text().measureSize()
 
