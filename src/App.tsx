@@ -3,7 +3,7 @@ import {  Color, processColors } from './Color';
 import ColorExplorer from './ColorExplorer';
 
 function App() {
-  const [colors,setColors] = React.useState(Colors([]));
+  const [colors,setColors] = React.useState(processColors([]));
 
   React.useEffect(() => {
     const effect = async () => {
