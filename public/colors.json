@@ -1,0 +1,4216 @@
+[
+  {
+    "Name": "Cadmium Yellow Medium Hue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/08/CAD-YEL-MH_DS_WC_swatch.jpg",
+    "SKU": "284600184",
+    "Pigment": "PY 53, PY 151, PY 83 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Opaque",
+    "Position": {
+      "x": 6.755542240862792,
+      "y": 87.37954110898661
+    },
+    "Pigments": [
+      "PY 53",
+      "PY 151",
+      "PY 83"
+    ],
+    "Series": 3,
+    "RGBA": "254,231,2,255"
+  },
+  {
+    "Name": "Buff Titanium",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/BUF-TIT_DS_WC_swatch.jpg",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 1.5817855002995806,
+      "y": 27.89961759082218
+    },
+    "Pigments": [],
+    "RGBA": "242,226,175,255"
+  },
+  {
+    "Name": "Nickel Titanate Yellow",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/NIC-TIT-YEL_DS_WC_swatch.jpg",
+    "SKU": "284600062",
+    "Pigment": "PY 53 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Opaque",
+    "Position": {
+      "x": -6.557819053325344,
+      "y": 41.44455066921606
+    },
+    "Pigments": [
+      "PY 53"
+    ],
+    "Series": 1,
+    "RGBA": "241,241,152,255"
+  },
+  {
+    "Name": "Bismuth Vanadate Yellow",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/BIS-VAN-YEL_DS_WC_swatch.jpg",
+    "SKU": "284600154",
+    "Pigment": "PY 184 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Opaque",
+    "Position": {
+      "x": -6.755542240862792,
+      "y": 80.60707456978967
+    },
+    "Pigments": [
+      "PY 184"
+    ],
+    "Series": 2,
+    "RGBA": "254,254,84,255"
+  },
+  {
+    "Name": "Hansa Yellow Light",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/HAN-YEL-LT_DS_WC_swatch.jpg",
+    "SKU": "284600041",
+    "Pigment": "PY 3 | Series: 1",
+    "Lightfastness": "II – Very Good",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -11.10545236668664,
+      "y": 93.26864244741874
+    },
+    "Pigments": [
+      "PY 3"
+    ],
+    "Series": 1,
+    "RGBA": "254,253,42,255"
+  },
+  {
+    "Name": "Azo Yellow",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/AZO-YEL_DS_WC_swatch.jpg",
+    "SKU": "284600215",
+    "Pigment": "PY 151 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -2.3397243858597965,
+      "y": 84.95028680688337
+    },
+    "Pigments": [
+      "PY 151"
+    ],
+    "Series": 3,
+    "RGBA": "254,237,54,255"
+  },
+  {
+    "Name": "Quinophthalone Yellow",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/QUINO-YEL_DS_WC_swatch.jpg",
+    "SKU": "284600223",
+    "Pigment": "PY 138 | Series: 3",
+    "Lightfastness": "II – Very Good",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -3.3942480527261836,
+      "y": 91.2810707456979
+    },
+    "Pigments": [
+      "PY 138"
+    ],
+    "Series": 3,
+    "RGBA": "255,236,2,255"
+  },
+  {
+    "Name": "Cadmium Yellow Light Hue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/CAD-YEL-LH_DS_WC_swatch.jpg",
+    "SKU": "284600192",
+    "Pigment": "PY 53, PY 138, PY 3 | Series: 3",
+    "Lightfastness": "II – Very Good",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Opaque",
+    "Position": {
+      "x": -7.645296584781306,
+      "y": 93.85755258126196
+    },
+    "Pigments": [
+      "PY 53",
+      "PY 138",
+      "PY 3"
+    ],
+    "Series": 3,
+    "RGBA": "253,240,3,255"
+  },
+  {
+    "Name": "Aureolin (Cobalt Yellow)",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/AURE-CY_DS_WC_swatch.jpg",
+    "SKU": "284600006",
+    "Pigment": "PY 40 | Series: 3",
+    "Lightfastness": "II – Very Good",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -2.8010784901138406,
+      "y": 88.11567877629064
+    },
+    "Pigments": [
+      "PY 40"
+    ],
+    "Series": 3,
+    "RGBA": "253,252,70,255"
+  },
+  {
+    "Name": "Cadmium Yellow Deep Hue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/08/CAD-YEL-DP-H_DS_WC_swatch.jpg",
+    "SKU": "284600221",
+    "Pigment": "PY 53, PY 83 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Opaque",
+    "Position": {
+      "x": 26.198322348711805,
+      "y": 90.98661567877629
+    },
+    "Pigments": [
+      "PY 53",
+      "PY 83"
+    ],
+    "Series": 3,
+    "RGBA": "232,182,8,255"
+  },
+  {
+    "Name": "Hansa Yellow Medium",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/11-Hansa-Yellow-Medium_swatch.jpg",
+    "SKU": "284600039",
+    "Pigment": "PY 97 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 3.9544637507489515,
+      "y": 105.19407265774379
+    },
+    "Pigments": [
+      "PY 97"
+    ],
+    "Series": 2,
+    "RGBA": "254,245,1,255"
+  },
+  {
+    "Name": "Mayan Yellow",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/MAY-YEL_DS_WC_swatch.jpg",
+    "SKU": "284600212",
+    "Pigment": "PY 223 | Series: 3",
+    "Lightfastness": "II – Very Good",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 2.932893948472139,
+      "y": 84.28776290630975
+    },
+    "Pigments": [
+      "PY 223"
+    ],
+    "Series": 3,
+    "RGBA": "254,223,18,255"
+  },
+  {
+    "Name": "Lemon Yellow",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/LEM-YEL_DS_WC_swatch.jpg",
+    "SKU": "284600165",
+    "Pigment": "PY 175 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -7.612342720191732,
+      "y": 88.04206500956023
+    },
+    "Pigments": [
+      "PY 175"
+    ],
+    "Series": 1,
+    "RGBA": "254,250,9,255"
+  },
+  {
+    "Name": "Indian Yellow",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/08/INDN-YEL_DS_WC_swatch.jpg",
+    "SKU": "284600045",
+    "Pigment": "PY 97, PY 150 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 9.095266626722589,
+      "y": 92.09082217973231
+    },
+    "Pigments": [
+      "PY 97",
+      "PY 150"
+    ],
+    "Series": 3,
+    "RGBA": "253,209,2,255"
+  },
+  {
+    "Name": "Naples Yellow",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/NAP-YEL_DS_WC_swatch.jpg",
+    "SKU": "284600058",
+    "Pigment": "PW 4, PY 97, PR 101 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 8.502097064110247,
+      "y": 48.879541108986615
+    },
+    "Pigments": [
+      "PW 4",
+      "PY 97",
+      "PR 101"
+    ],
+    "Series": 1,
+    "RGBA": "253,216,114,255"
+  },
+  {
+    "Name": "Hansa Yellow Deep",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/HAN-YEL-DP_DS_WC_swatch.jpg",
+    "SKU": "284600040",
+    "Pigment": "PY 65 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 24.6494907130018,
+      "y": 83.99330783938815
+    },
+    "Pigments": [
+      "PY 65"
+    ],
+    "Series": 1,
+    "RGBA": "254,222,3,255"
+  },
+  {
+    "Name": "New Gamboge",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/NW-GAMB_DS_WC_swatch.jpg",
+    "SKU": "284600060",
+    "Pigment": "PY 97, PY 110 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 12.3247453565009,
+      "y": 81.93212237093691
+    },
+    "Pigments": [
+      "PY 97",
+      "PY 110"
+    ],
+    "Series": 1,
+    "RGBA": "253,196,5,255"
+  },
+  {
+    "Name": "Isoindoline Yellow",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/ISO-YEL_DS_WC_swatch.jpg",
+    "SKU": "284600218",
+    "Pigment": "PY 139 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 39.70940683043739,
+      "y": 81.7848948374761
+    },
+    "Pigments": [
+      "PY 139"
+    ],
+    "Series": 2,
+    "RGBA": "254,158,2,255"
+  },
+  {
+    "Name": "Permanent Yellow Deep",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/PERM-YEL-DP_DS_WC_swatch.jpg",
+    "SKU": "284600133",
+    "Pigment": "PY 110 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 31.635710005991612,
+      "y": 78.25143403441683
+    },
+    "Pigments": [
+      "PY 110"
+    ],
+    "Series": 2,
+    "RGBA": "251,175,59,255"
+  },
+  {
+    "Name": "Aussie Red Gold",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/AUS-RED-GLD_DS_WC_swatch.jpg",
+    "SKU": "284600234",
+    "Pigment": "PY 83, PR 101, PV 19 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 41.09346914319952,
+      "y": 73.61376673040154
+    },
+    "Pigments": [
+      "PY 83",
+      "PR 101",
+      "PV 19"
+    ],
+    "Series": 2,
+    "RGBA": "212,149,57,255"
+  },
+  {
+    "Name": "Pyrrol Orange",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/PYR-ORG_DS_WC_swatch.jpg",
+    "SKU": "284600126",
+    "Pigment": "PO 73 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 60.04194128220492,
+      "y": 64.70650095602295
+    },
+    "Pigments": [
+      "PO 73"
+    ],
+    "Series": 2,
+    "RGBA": "248,104,26,255"
+  },
+  {
+    "Name": "Permanent Orange",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/PERM-ORG_DS_WC_swatch.jpg",
+    "SKU": "284600071",
+    "Pigment": "PO 62 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 46.333133612941886,
+      "y": 68.90248565965584
+    },
+    "Pigments": [
+      "PO 62"
+    ],
+    "Series": 3,
+    "RGBA": "254,113,2,255"
+  },
+  {
+    "Name": "Cadmium Orange Hue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/CAD-ORG-H_DS_WC_swatch.jpg",
+    "SKU": "284600220",
+    "Pigment": "PY 53, PO 73, PY 83 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Opaque",
+    "Position": {
+      "x": 53.64889155182745,
+      "y": 70.59560229445506
+    },
+    "Pigments": [
+      "PY 53",
+      "PO 73",
+      "PY 83"
+    ],
+    "Series": 3,
+    "RGBA": "229,122,26,255"
+  },
+  {
+    "Name": "Perinone Orange",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/PERI-ORG_DS_WC_swatch.jpg",
+    "SKU": "284600066",
+    "Pigment": "PO 43 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "4-High Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 56.77950868783703,
+      "y": 62.05640535372849
+    },
+    "Pigments": [
+      "PO 43"
+    ],
+    "Series": 3,
+    "RGBA": "245,97,12,255"
+  },
+  {
+    "Name": "Cadmium Red Scarlet Hue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/CAD-RED-SCAR-H_DS_WC_swatch.jpg",
+    "SKU": "284600219",
+    "Pigment": "PY 53, PR 254, PY 83 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Opaque",
+    "Position": {
+      "x": 56.15338526063511,
+      "y": 47.9961759082218
+    },
+    "Pigments": [
+      "PY 53",
+      "PR 254",
+      "PY 83"
+    ],
+    "Series": 3,
+    "RGBA": "209,65,17,255"
+  },
+  {
+    "Name": "Transparent Pyrrol Orange",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/TRAN-PYR-ORG_DS_WC_swatch.jpg",
+    "SKU": "284600187",
+    "Pigment": "PO 71 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 55.46135410425405,
+      "y": 46.67112810707457
+    },
+    "Pigments": [
+      "PO 71"
+    ],
+    "Series": 2,
+    "RGBA": "215,73,19,255"
+  },
+  {
+    "Name": "Organic Vermilion",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/ORG-VERM_DS_WC_swatch.jpg",
+    "SKU": "284600064",
+    "Pigment": "PR 188 | Series: 2",
+    "Lightfastness": "II – Very Good",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 64.95206710605153,
+      "y": 55.79923518164436
+    },
+    "Pigments": [
+      "PR 188"
+    ],
+    "Series": 2,
+    "RGBA": "238,65,27,255"
+  },
+  {
+    "Name": "Mayan Orange",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/MAY-ORG_DS_WC_swatch.jpg",
+    "SKU": "284600216",
+    "Pigment": "PO N/A | Series: 3",
+    "Lightfastness": "II – Very Good",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 55.85680047932894,
+      "y": 40.634799235181646
+    },
+    "Pigments": [
+      "PO N/A"
+    ],
+    "Series": 3,
+    "RGBA": "226,132,111,255"
+  },
+  {
+    "Name": "Quinacridone Coral",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/QUIN-COR_DS_WC_swatch.jpg",
+    "SKU": "284600088",
+    "Pigment": "PR 209 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 60.93169562612343,
+      "y": 20.391013384321223
+    },
+    "Pigments": [
+      "PR 209"
+    ],
+    "Series": 2,
+    "RGBA": "234,93,94,255"
+  },
+  {
+    "Name": "Pyrrol Scarlet",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PYR-SCAR_DS_WC_swatch.jpg",
+    "SKU": "284600085",
+    "Pigment": "PR 255 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 62.90892750149791,
+      "y": 48.2906309751434
+    },
+    "Pigments": [
+      "PR 255"
+    ],
+    "Series": 3,
+    "RGBA": "233,41,16,255"
+  },
+  {
+    "Name": "Perylene Scarlet",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PERY-SCAR_DS_WC_swatch.jpg",
+    "SKU": "284600076",
+    "Pigment": "PR 149 | Series: 3",
+    "Lightfastness": "II – Very Good",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 56.449970041941285,
+      "y": 38.2791586998088
+    },
+    "Pigments": [
+      "PR 149"
+    ],
+    "Series": 3,
+    "RGBA": "205,93,83,255"
+  },
+  {
+    "Name": "Anthraquinoid Scarlet",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/ANTH-SCAR_DS_WC_swatch.jpg",
+    "SKU": "284600224",
+    "Pigment": "PR 168 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 57.109047333732775,
+      "y": 40.04588910133843
+    },
+    "Pigments": [
+      "PR 168"
+    ],
+    "Series": 3,
+    "RGBA": "195,76,68,255"
+  },
+  {
+    "Name": "Cadmium Red Medium Hue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/CAD-RED-MD-H_DS_WC_swatch.jpg",
+    "SKU": "284600222",
+    "Pigment": "PY 53, PR 254 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Opaque",
+    "Position": {
+      "x": 59.382863990413426,
+      "y": 42.03346080305927
+    },
+    "Pigments": [
+      "PY 53",
+      "PR 254"
+    ],
+    "Series": 3,
+    "RGBA": "216,31,31,255"
+  },
+  {
+    "Name": "Pyrrol Red",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PYR-RED_DS_WC_swatch.jpg",
+    "SKU": "284600084",
+    "Pigment": "PR 254 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 58.98741761533853,
+      "y": 37.911089866156786
+    },
+    "Pigments": [
+      "PR 254"
+    ],
+    "Series": 3,
+    "RGBA": "215,59,41,255"
+  },
+  {
+    "Name": "Perylene Red",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PERY-RED_DS_WC_swatch.jpg",
+    "SKU": "284600075",
+    "Pigment": "PR 178 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 54.901138406231276,
+      "y": 29.519120458891013
+    },
+    "Pigments": [
+      "PR 178"
+    ],
+    "Series": 3,
+    "RGBA": "233,16,13,255"
+  },
+  {
+    "Name": "Permanent Red",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PERM-RED_DS_WC_swatch.jpg",
+    "SKU": "284600072",
+    "Pigment": "PR 170 F3RK-70 | Series: 1",
+    "Lightfastness": "II – Very Good",
+    "Staining": "4-High Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 61.19532654284003,
+      "y": 38.4263862332696
+    },
+    "Pigments": [
+      "PR 170 F3RK-70"
+    ],
+    "Series": 1,
+    "RGBA": "240,21,5,255"
+  },
+  {
+    "Name": "Permanent Red Deep",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PERM-RED-DP_DS_WC_swatch.jpg",
+    "SKU": "284600069",
+    "Pigment": "PR 170 F5RK | Series: 1",
+    "Lightfastness": "II – Very Good",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 59.976033553025765,
+      "y": 32.39005736137668
+    },
+    "Pigments": [
+      "PR 170 F5RK"
+    ],
+    "Series": 1,
+    "RGBA": "195,61,62,255"
+  },
+  {
+    "Name": "Quinacridone Red",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/QUIN-RED_DS_WC_swatch.jpg",
+    "SKU": "284600091",
+    "Pigment": "PV 19 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 60.10784901138407,
+      "y": 18.992351816443595
+    },
+    "Pigments": [
+      "PV 19"
+    ],
+    "Series": 2,
+    "RGBA": "235,98,101,255"
+  },
+  {
+    "Name": "Anthraquinoid Red",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/ANTH-RED_DS_WC_swatch.jpg",
+    "SKU": "284600005",
+    "Pigment": "PR 177 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 53.0557219892151,
+      "y": 21.863288718929255
+    },
+    "Pigments": [
+      "PR 177"
+    ],
+    "Series": 2,
+    "RGBA": "179,65,75,255"
+  },
+  {
+    "Name": "Mayan Red",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/MAY-RED_DS_WC_swatch.jpg",
+    "SKU": "284600217",
+    "Pigment": "PR 287 | Series: 3",
+    "Lightfastness": "II – Very Good",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 55.49430796884362,
+      "y": 11.042065009560229
+    },
+    "Pigments": [
+      "PR 287"
+    ],
+    "Series": 3,
+    "RGBA": "214,109,114,255"
+  },
+  {
+    "Name": "Alizarin Crimson",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/ALZ-CRIM_DS_WC_swatch.jpg",
+    "SKU": "284600004",
+    "Pigment": "PR 83 | Series: 1",
+    "Lightfastness": "IV – Fugitive",
+    "Transparency": "Transparent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Position": {
+      "x": 54.83523067705213,
+      "y": 18.918738049713195
+    },
+    "Pigments": [
+      "PR 83"
+    ],
+    "Series": 1,
+    "RGBA": "203,35,46,255"
+  },
+  {
+    "Name": "Permanent Alizarin Crimson",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PERM-ALIZ-CRIM_DS_WC_swatch.jpg",
+    "SKU": "284600185",
+    "Pigment": "PR 177, PV 19, PR 149 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 55.56021569802277,
+      "y": 27.163479923518164
+    },
+    "Pigments": [
+      "PR 177",
+      "PV 19",
+      "PR 149"
+    ],
+    "Series": 2,
+    "RGBA": "195,33,44,255"
+  },
+  {
+    "Name": "Rhodonite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/RHOD-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600167",
+    "Pigment": "Genuine Rhodonite | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 39.874176153385264,
+      "y": -6.25717017208413
+    },
+    "Pigments": [
+      "Genuine Rhodonite"
+    ],
+    "Series": 2,
+    "RGBA": "251,131,176,255"
+  },
+  {
+    "Name": "Carmine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/CARM_DS_WC_swatch.jpg",
+    "SKU": "284600020",
+    "Pigment": "PR 176 | Series: 2",
+    "Lightfastness": "II – Very Good",
+    "Staining": "4-High Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 54.901138406231276,
+      "y": 24.1453154875717
+    },
+    "Pigments": [
+      "PR 176"
+    ],
+    "Series": 2,
+    "RGBA": "179,22,9,255"
+  },
+  {
+    "Name": "Rose Madder Permanent",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/RSE-MAD-PERM_DS_WC_swatch.jpg",
+    "SKU": "284600237",
+    "Pigment": "PR 209, PV 19, PR 202 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 49.66147393648892,
+      "y": -0.4416826003824092
+    },
+    "Pigments": [
+      "PR 209",
+      "PV 19",
+      "PR 202"
+    ],
+    "Series": 2,
+    "RGBA": "229,173,168,255"
+  },
+  {
+    "Name": "Opera Pink",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/OPR-PNK_DS_WC_swatch.jpg",
+    "SKU": "284600198",
+    "Pigment": "PR 122, Fluorescent Pigment | Series: 1",
+    "Lightfastness": "IV – Fugitive",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 52.13301378070701,
+      "y": -17.22562141491396
+    },
+    "Pigments": [
+      "PR 122",
+      "Fluorescent Pigment"
+    ],
+    "Series": 1,
+    "RGBA": "252,84,161,255"
+  },
+  {
+    "Name": "Potter's Pink",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/POT-PNK_DS_WC_swatch.jpg",
+    "SKU": "284600148",
+    "Pigment": "PR 233 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 15.257639304973038,
+      "y": 6.330783938814531
+    },
+    "Pigments": [
+      "PR 233"
+    ],
+    "Series": 3,
+    "RGBA": "232,197,196,255"
+  },
+  {
+    "Name": "Quinacridone Pink",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/QUIN-PNK_DS_WC_swatch.jpg",
+    "SKU": "284600095",
+    "Pigment": "PV 42 | Series: 2",
+    "Lightfastness": "II – Very Good",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 62.28280407429599,
+      "y": -0.36806883365200765
+    },
+    "Pigments": [
+      "PV 42"
+    ],
+    "Series": 2,
+    "RGBA": "238,92,136,255"
+  },
+  {
+    "Name": "Quinacridone Rose",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/QUIN-ROS_DS_WC_swatch.jpg",
+    "SKU": "284600092",
+    "Pigment": "PV 19 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 52.56141402037148,
+      "y": -1.4722753346080306
+    },
+    "Pigments": [
+      "PV 19"
+    ],
+    "Series": 2,
+    "RGBA": "216,62,107,255"
+  },
+  {
+    "Name": "Quinacridone Lilac",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/QUIN-LILA_DS_WC_swatch.jpg",
+    "SKU": "284600236",
+    "Pigment": "PR 122 | Series: 2",
+    "Lightfastness": "II – Very Good",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 53.12162971839425,
+      "y": -3.901529636711281
+    },
+    "Pigments": [
+      "PR 122"
+    ],
+    "Series": 2,
+    "RGBA": "175,63,129,255"
+  },
+  {
+    "Name": "Quinacridone Magenta",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/QUIN-MAG_DS_WC_swatch.jpg",
+    "SKU": "284600090",
+    "Pigment": "PR 202 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 50.8478130617136,
+      "y": -4.1223709369024855
+    },
+    "Pigments": [
+      "PR 202"
+    ],
+    "Series": 2,
+    "RGBA": "165,35,85,255"
+  },
+  {
+    "Name": "Pyrrol Crimson",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PYR-CRIM_DS_WC_swatch.jpg",
+    "SKU": "284600127",
+    "Pigment": "PR 264 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 48.24445775913721,
+      "y": 22.084130019120458
+    },
+    "Pigments": [
+      "PR 264"
+    ],
+    "Series": 2,
+    "RGBA": "184,95,97,255"
+  },
+  {
+    "Name": "Quinacridone Fuchsia",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/QUIN-FUCH_DS_WC_swatch.jpg",
+    "SKU": "284600132",
+    "Pigment": "PR 202 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 50.74895146794488,
+      "y": 10.08508604206501
+    },
+    "Pigments": [
+      "PR 202"
+    ],
+    "Series": 2,
+    "RGBA": "162,49,58,255"
+  },
+  {
+    "Name": "Mayan Violet",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/MAY-VIO_DS_WC_swatch.jpg",
+    "SKU": "284600214",
+    "Pigment": "PV 58 | Series: 3",
+    "Lightfastness": "II – Very Good",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 37.30377471539845,
+      "y": -13.839388145315487
+    },
+    "Pigments": [
+      "PV 58"
+    ],
+    "Series": 3,
+    "RGBA": "160,74,109,255"
+  },
+  {
+    "Name": "Bordeaux",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/BRDX_DS_WC_swatch.jpg",
+    "SKU": "284600008",
+    "Pigment": "PV 32 | Series: 2",
+    "Lightfastness": "II – Very Good",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 42.64230077890953,
+      "y": 10.08508604206501
+    },
+    "Pigments": [
+      "PV 32"
+    ],
+    "Series": 2,
+    "RGBA": "114,35,41,255"
+  },
+  {
+    "Name": "Permanent Violet",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PERM-VIO_DS_WC_swatch.jpg",
+    "SKU": "284600073",
+    "Pigment": "PR 202, PB 29 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 34.73337327741162,
+      "y": -1.398661567877629
+    },
+    "Pigments": [
+      "PR 202",
+      "PB 29"
+    ],
+    "Series": 3,
+    "RGBA": "122,49,77,255"
+  },
+  {
+    "Name": "Quinacridone Violet",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/QUIN-VIO_DS_WC_swatch.jpg",
+    "SKU": "284600094",
+    "Pigment": "PV 19 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "4-High Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 44.58657878969443,
+      "y": 3.901529636711281
+    },
+    "Pigments": [
+      "PV 19"
+    ],
+    "Series": 2,
+    "RGBA": "156,9,75,255"
+  },
+  {
+    "Name": "Perylene Violet",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PERY-VIO_DS_WC_swatch.jpg",
+    "SKU": "284600201",
+    "Pigment": "PV 29 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 27.582384661473938,
+      "y": 4.416826003824092
+    },
+    "Pigments": [
+      "PV 29"
+    ],
+    "Series": 3,
+    "RGBA": "95,22,19,255"
+  },
+  {
+    "Name": "Cobalt Violet",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/COB-VIO_DS_WC_swatch.jpg",
+    "SKU": "284600030",
+    "Pigment": "PV 49 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 14.796285200718994,
+      "y": -3.2390057361376674
+    },
+    "Pigments": [
+      "PV 49"
+    ],
+    "Series": 3,
+    "RGBA": "242,190,220,255"
+  },
+  {
+    "Name": "Cobalt Violet Deep",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/COB-VIO-DP_DS_WC_swatch.jpg",
+    "SKU": "284600031",
+    "Pigment": "PV 14 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 14.664469742360696,
+      "y": -18.477055449330784
+    },
+    "Pigments": [
+      "PV 14"
+    ],
+    "Series": 3,
+    "RGBA": "206,153,199,255"
+  },
+  {
+    "Name": "Wisteria",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/WISTR_DS_WCswatch.jpg",
+    "SKU": "284600231",
+    "Pigment": "PW 6, PR 122 | Series: 2",
+    "Lightfastness": "II – Very Good",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 28.17555422408628,
+      "y": -20.979923518164437
+    },
+    "Pigments": [
+      "PW 6",
+      "PR 122"
+    ],
+    "Series": 2,
+    "RGBA": "201,154,206,255"
+  },
+  {
+    "Name": "Ultramarine Red",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/ULT-RED_DS_WC_swatch.jpg",
+    "SKU": "284600107",
+    "Pigment": "PV 15 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 24.28699820251648,
+      "y": -11.262906309751434
+    },
+    "Pigments": [
+      "PV 15"
+    ],
+    "Series": 1,
+    "RGBA": "226,190,224,255"
+  },
+  {
+    "Name": "Rose of Ultramarine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/ROSE-ULTRA_DS_WC_swatch.jpg",
+    "SKU": "284600101",
+    "Pigment": "PB 29, PV 19 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 32.62432594367885,
+      "y": -19.58126195028681
+    },
+    "Pigments": [
+      "PB 29",
+      "PV 19"
+    ],
+    "Series": 1,
+    "RGBA": "119,37,105,255"
+  },
+  {
+    "Name": "Quinacridone Purple",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/QUIN-PURP_DS_WC_swatch.jpg",
+    "SKU": "284600225",
+    "Pigment": "PV 55 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 35.227681246255244,
+      "y": -21.863288718929255
+    },
+    "Pigments": [
+      "PV 55"
+    ],
+    "Series": 2,
+    "RGBA": "116,38,88,255"
+  },
+  {
+    "Name": "Imperial Purple",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/IMP-PURP_DS_WC_swatch.jpg",
+    "SKU": "284600174",
+    "Pigment": "PV 19, PB 29 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 22.276812462552428,
+      "y": -34.59847036328872
+    },
+    "Pigments": [
+      "PV 19",
+      "PB 29"
+    ],
+    "Series": 2,
+    "RGBA": "111,79,152,255"
+  },
+  {
+    "Name": "Purpurite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PURP-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600164",
+    "Pigment": "Genuine Purpurite | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 12.555422408627921,
+      "y": 0
+    },
+    "Pigments": [
+      "Genuine Purpurite"
+    ],
+    "Series": 2,
+    "RGBA": "153,122,138,255"
+  },
+  {
+    "Name": "Ultramarine Violet",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/ULT-VIO_DS_WC_swatch.jpg",
+    "SKU": "284600108",
+    "Pigment": "PV 15 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 15.257639304973038,
+      "y": -20.24378585086042
+    },
+    "Pigments": [
+      "PV 15"
+    ],
+    "Series": 1,
+    "RGBA": "193,134,194,255"
+  },
+  {
+    "Name": "Amethyst Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/AMTH-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600203",
+    "Pigment": "Genuine Amethyst | Series: 4",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 16.971240263630918,
+      "y": -22.746653919694072
+    },
+    "Pigments": [
+      "Genuine Amethyst"
+    ],
+    "Series": 4,
+    "RGBA": "102,79,100,255"
+  },
+  {
+    "Name": "Carbazole Violet",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/CARB-VIO_DS_WC_swatch.jpg",
+    "SKU": "284600019",
+    "Pigment": "PV 23(RS) | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 25.473337327741163,
+      "y": -31.874760994263863
+    },
+    "Pigments": [
+      "PV 23(RS)"
+    ],
+    "Series": 2,
+    "RGBA": "79,29,89,255"
+  },
+  {
+    "Name": "Cobalt Blue Violet",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/COB-BLU-VIO_DS_WC_swatch.jpg",
+    "SKU": "284600115",
+    "Pigment": "PB 28, PV 19 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 20.101857399640505,
+      "y": -40.92925430210325
+    },
+    "Pigments": [
+      "PB 28",
+      "PV 19"
+    ],
+    "Series": 3,
+    "RGBA": "108,92,171,255"
+  },
+  {
+    "Name": "Moonglow",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/MOON_DS_WC_swatch.jpg",
+    "SKU": "284600057",
+    "Pigment": "PG 18, PB 29, PR 177 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 8.798681845416418,
+      "y": -4.711281070745698
+    },
+    "Pigments": [
+      "PG 18",
+      "PB 29",
+      "PR 177"
+    ],
+    "Series": 2,
+    "RGBA": "86,59,72,255"
+  },
+  {
+    "Name": "Shadow Violet",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/SHAD-VIO_DS_WC_swatch.jpg",
+    "SKU": "284600188",
+    "Pigment": "PB 29, PG 18, PO 73 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 9.325943678849612,
+      "y": 0.8097514340344169
+    },
+    "Pigments": [
+      "PB 29",
+      "PG 18",
+      "PO 73"
+    ],
+    "Series": 2,
+    "RGBA": "106,91,82,255"
+  },
+  {
+    "Name": "Sugilite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/SUGI-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600200",
+    "Pigment": "Genuine Sugilite | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 7.875973636908329,
+      "y": -7.2877629063097515
+    },
+    "Pigments": [
+      "Genuine Sugilite"
+    ],
+    "Series": 3,
+    "RGBA": "138,137,148,255"
+  },
+  {
+    "Name": "Kyanite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/KYAN-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600186",
+    "Pigment": "Genuine Kyanite | Series: 4",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -6.327142001198323,
+      "y": -15.311663479923519
+    },
+    "Pigments": [
+      "Genuine Kyanite"
+    ],
+    "Series": 4,
+    "RGBA": "77,107,184,255"
+  },
+  {
+    "Name": "Indigo",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/INDGO_DS_WC_swatch.jpg",
+    "SKU": "284600046",
+    "Pigment": "PB 60, PBk 6 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 6.063511084481726,
+      "y": -9.5697896749522
+    },
+    "Pigments": [
+      "PB 60",
+      "PBk 6"
+    ],
+    "Series": 1,
+    "RGBA": "69,84,106,255"
+  },
+  {
+    "Name": "Mayan Dark Blue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/MAY-DK-BLU_DS_WC_swatch.jpg",
+    "SKU": "284600213",
+    "Pigment": "PB 82 | Series: 3",
+    "Lightfastness": "II – Very Good",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -5.041941282204913,
+      "y": -18.77151051625239
+    },
+    "Pigments": [
+      "PB 82"
+    ],
+    "Series": 3,
+    "RGBA": "20,34,49,255"
+  },
+  {
+    "Name": "Indanthrone Blue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/INDA-BLU_DS_WC_swatch.jpg",
+    "SKU": "284600043",
+    "Pigment": "PB 60 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 14.104254044337928,
+      "y": -29.29827915869981
+    },
+    "Pigments": [
+      "PB 60"
+    ],
+    "Series": 2,
+    "RGBA": "22,12,64,255"
+  },
+  {
+    "Name": "Sodalite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/SODA-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600179",
+    "Pigment": "Genuine Sodalite | Series: 4",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -2.2738166566806473,
+      "y": -9.790630975143404
+    },
+    "Pigments": [
+      "Genuine Sodalite"
+    ],
+    "Series": 4,
+    "RGBA": "112,119,122,255"
+  },
+  {
+    "Name": "Lapis Lazuli Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/LAP-LAZ-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600138",
+    "Pigment": "Genuine Lapis Lazuli | Series: 5",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -3.987417615338526,
+      "y": -11.925430210325048
+    },
+    "Pigments": [
+      "Genuine Lapis Lazuli"
+    ],
+    "Series": 5,
+    "RGBA": "209,218,237,255"
+  },
+  {
+    "Name": "French Ultramarine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/FREN-ULTRA_DS_WC_swatch.jpg",
+    "SKU": "284600034",
+    "Pigment": "PB 29 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 9.227082085080887,
+      "y": -59.11185468451243
+    },
+    "Pigments": [
+      "PB 29"
+    ],
+    "Series": 2,
+    "RGBA": "85,91,210,255"
+  },
+  {
+    "Name": "Ultramarine Blue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/ULT-BLU_DS_WC_swatch.jpg",
+    "SKU": "284600106",
+    "Pigment": "PB 29 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 7.513481126423009,
+      "y": -57.19789674952199
+    },
+    "Pigments": [
+      "PB 29"
+    ],
+    "Series": 1,
+    "RGBA": "104,106,213,255"
+  },
+  {
+    "Name": "Cobalt Blue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/COB-BLU_DS_WC_swatch.jpg",
+    "SKU": "284600025",
+    "Pigment": "PB 28 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -7.711204313960455,
+      "y": -39.236137667304014
+    },
+    "Pigments": [
+      "PB 28"
+    ],
+    "Series": 3,
+    "RGBA": "106,120,244,255"
+  },
+  {
+    "Name": "Phthalo Blue (Green Shade)",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PHT-BLU-GS_DS_WC_swatch.jpg",
+    "SKU": "284600077",
+    "Pigment": "PB 15 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "4-High Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -21.914319952067107,
+      "y": -38.5
+    },
+    "Pigments": [
+      "PB 15"
+    ],
+    "Series": 1,
+    "RGBA": "35,101,136,255"
+  },
+  {
+    "Name": "Lavender",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/LAV_DS_WC_swatch.jpg",
+    "SKU": "284600232",
+    "Pigment": "PW 6, PV 15, PB 29 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 0.9556620730976633,
+      "y": -22.59942638623327
+    },
+    "Pigments": [
+      "PW 6",
+      "PV 15",
+      "PB 29"
+    ],
+    "Series": 2,
+    "RGBA": "150,154,199,255"
+  },
+  {
+    "Name": "King's Royal Blue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/Kings-Royal-Blue-Swatch.jpg",
+    "SKU": "284600252",
+    "Pigment": "PB 29, PB 15, PW 4 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -3.8556021569802277,
+      "y": -25.02868068833652
+    },
+    "Pigments": [
+      "PB 29",
+      "PB 15",
+      "PW 4"
+    ],
+    "Series": 2,
+    "RGBA": "156,189,251,255"
+  },
+  {
+    "Name": "Verditer Blue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/VERD-BLU_DS_WC_swatch.jpg",
+    "SKU": "284600173",
+    "Pigment": "PB 28, PB 36, PW 4 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -11.46794487717196,
+      "y": -38.6472275334608
+    },
+    "Pigments": [
+      "PB 28",
+      "PB 36",
+      "PW 4"
+    ],
+    "Series": 2,
+    "RGBA": "62,114,243,255"
+  },
+  {
+    "Name": "Phthalo Blue (Red Shade)",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PHT-BLU-RS_DS_WC_swatch.jpg",
+    "SKU": "284600119",
+    "Pigment": "PB 15 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "4-High Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -2.932893948472139,
+      "y": -41.44455066921606
+    },
+    "Pigments": [
+      "PB 15"
+    ],
+    "Series": 1,
+    "RGBA": "57,81,133,255"
+  },
+  {
+    "Name": "Prussian Blue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PRUS-BLU_DS_WC_swatch.jpg",
+    "SKU": "284600082",
+    "Pigment": "PB 27 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -4.5146794487717194,
+      "y": -32.169216061185466
+    },
+    "Pigments": [
+      "PB 27"
+    ],
+    "Series": 1,
+    "RGBA": "47,72,105,255"
+  },
+  {
+    "Name": "Mayan Blue Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/MAY-BLU-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600211",
+    "Pigment": "Genuine Mayan Blue | Series: 3",
+    "Lightfastness": "II – Very Good",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -17.33373277411624,
+      "y": -13.765774378585085
+    },
+    "Pigments": [
+      "Genuine Mayan Blue"
+    ],
+    "Series": 3,
+    "RGBA": "109,156,148,255"
+  },
+  {
+    "Name": "Cerulean Blue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/CERU-BLU_DS_WC_swatch.jpg",
+    "SKU": "284600206",
+    "Pigment": "PB 35 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -12.588376273217497,
+      "y": -17.37284894837476
+    },
+    "Pigments": [
+      "PB 35"
+    ],
+    "Series": 3,
+    "RGBA": "155,184,211,255"
+  },
+  {
+    "Name": "Cerulean Blue Chromium",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/CER-BLU-CHRO_DS_WC_swatch.jpg",
+    "SKU": "284600021",
+    "Pigment": "PB 36 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -23.693828639904137,
+      "y": -28.782982791587
+    },
+    "Pigments": [
+      "PB 36"
+    ],
+    "Series": 2,
+    "RGBA": "92,143,183,255"
+  },
+  {
+    "Name": "Manganese Blue Hue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/MAN-BLU-HUE_DS_WC_swatch.jpg",
+    "SKU": "284600051",
+    "Pigment": "PB 15 | Series: 1",
+    "Lightfastness": "II – Very Good",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -20.85979628520072,
+      "y": -18.108986615678777
+    },
+    "Pigments": [
+      "PB 15"
+    ],
+    "Series": 1,
+    "RGBA": "139,209,223,255"
+  },
+  {
+    "Name": "Phthalo Blue Turquoise",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PHT-BLU-TURQ_DS_WC_swatch.jpg",
+    "SKU": "284600247",
+    "Pigment": "PB 16 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -36.67765128819653,
+      "y": -21.64244741873805
+    },
+    "Pigments": [
+      "PB 16"
+    ],
+    "Series": 2,
+    "RGBA": "28,119,139,255"
+  },
+  {
+    "Name": "Cobalt Teal Blue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/COB-TL-BLU_DS_WC_swatch.jpg",
+    "SKU": "284600028",
+    "Pigment": "PG 50 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -29.75733972438586,
+      "y": -5.741873804971319
+    },
+    "Pigments": [
+      "PG 50"
+    ],
+    "Series": 2,
+    "RGBA": "85,202,176,255"
+  },
+  {
+    "Name": "Phthalo Turquoise",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PHT-TURQ_DS_WC_swatch.jpg",
+    "SKU": "284600080",
+    "Pigment": "PB 15, PG 36 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "4-High Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -45.67405632115039,
+      "y": -9.348948374760994
+    },
+    "Pigments": [
+      "PB 15",
+      "PG 36"
+    ],
+    "Series": 1,
+    "RGBA": "17,120,104,255"
+  },
+  {
+    "Name": "Kingman Green Turquoise Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/KG-GRN-TURQ-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600155",
+    "Pigment": "Genuine Kingman Green Turquoise | Series: 5",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -17.070101857399642,
+      "y": 7.066921606118547
+    },
+    "Pigments": [
+      "Genuine Kingman Green Turquoise"
+    ],
+    "Series": 5,
+    "RGBA": "128,186,155,255"
+  },
+  {
+    "Name": "Ultramarine Turquoise",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/ULT-TURQ_DS_WC_swatch.jpg",
+    "SKU": "284600105",
+    "Pigment": "PB 29, PG 7 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -46.89334931096465,
+      "y": -4.416826003824092
+    },
+    "Pigments": [
+      "PB 29",
+      "PG 7"
+    ],
+    "Series": 1,
+    "RGBA": "14,127,109,255"
+  },
+  {
+    "Name": "Sleeping Beauty Turquoise Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/SL-BE-TURQ-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600150",
+    "Pigment": "Genuine Sleeping Beauty Turquoise | Series: 5",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -23.924505692031158,
+      "y": -5.668260038240918
+    },
+    "Pigments": [
+      "Genuine Sleeping Beauty Turquoise"
+    ],
+    "Series": 5,
+    "RGBA": "120,190,185,255"
+  },
+  {
+    "Name": "Cobalt Turquoise",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/COB-TURQ_DS_WC_swatch.jpg",
+    "SKU": "284600029",
+    "Pigment": "PB 36 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -21.683642899940086,
+      "y": -1.6931166347992352
+    },
+    "Pigments": [
+      "PB 36"
+    ],
+    "Series": 3,
+    "RGBA": "100,157,151,255"
+  },
+  {
+    "Name": "Amazonite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/AMAZ-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600163",
+    "Pigment": "Genuine Amazonite | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -33.942480527261836,
+      "y": 1.5458891013384322
+    },
+    "Pigments": [
+      "Genuine Amazonite"
+    ],
+    "Series": 2,
+    "RGBA": "93,207,174,255"
+  },
+  {
+    "Name": "Blue Apatite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/BLU-APA-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600196",
+    "Pigment": "Genuine Blue Apatite | Series: 4",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -15.850808867585382,
+      "y": -11.336520076481836
+    },
+    "Pigments": [
+      "Genuine Blue Apatite"
+    ],
+    "Series": 4,
+    "RGBA": "112,137,159,255"
+  },
+  {
+    "Name": "Lunar Blue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/LUN-BLU_DS_WC_swatch.jpg",
+    "SKU": "284600183",
+    "Pigment": "PB 15, PBk 11 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -13.741761533852607,
+      "y": -11.704588910133843
+    },
+    "Pigments": [
+      "PB 15",
+      "PBk 11"
+    ],
+    "Series": 2,
+    "RGBA": "105,141,131,255"
+  },
+  {
+    "Name": "Cobalt Green Pale",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/COB-GRN-PL_DS_WC_swatch.jpg",
+    "SKU": "284600027",
+    "Pigment": "PG 19 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -13.214499700419413,
+      "y": 4.711281070745698
+    },
+    "Pigments": [
+      "PG 19"
+    ],
+    "Series": 3,
+    "RGBA": "176,211,192,255"
+  },
+  {
+    "Name": "Fuchsite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/FUCH-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600169",
+    "Pigment": "Genuine Fuchsite | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -14.76333133612942,
+      "y": 6.330783938814531
+    },
+    "Pigments": [
+      "Genuine Fuchsite"
+    ],
+    "Series": 2,
+    "RGBA": "155,209,174,255"
+  },
+  {
+    "Name": "Viridian",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/VIRID_DS_WC_swatch.jpg",
+    "SKU": "284600112",
+    "Pigment": "PG 18 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -31.536848412222888,
+      "y": 9.12810707456979
+    },
+    "Pigments": [
+      "PG 18"
+    ],
+    "Series": 2,
+    "RGBA": "119,203,154,255"
+  },
+  {
+    "Name": "Diopside Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/DIOP-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600210",
+    "Pigment": "Genuine Diopside | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -31.866387058118637,
+      "y": 26.574569789674953
+    },
+    "Pigments": [
+      "Genuine Diopside"
+    ],
+    "Series": 3,
+    "RGBA": "37,138,67,255"
+  },
+  {
+    "Name": "Phthalo Green (Blue Shade)",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PHT-GRN-BS_DS_WC_swatch.jpg",
+    "SKU": "284600078",
+    "Pigment": "PG 7 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "4-High Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -55,
+      "y": 11.189292543021033
+    },
+    "Pigments": [
+      "PG 7"
+    ],
+    "Series": 1,
+    "RGBA": "14,163,104,255"
+  },
+  {
+    "Name": "Cascade Green",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/CASC-GRN_DS_WC_swatch.jpg",
+    "SKU": "284600142",
+    "Pigment": "PBr 7, PB 15 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -21.22228879568604,
+      "y": 3.3862332695984705
+    },
+    "Pigments": [
+      "PBr 7",
+      "PB 15"
+    ],
+    "Series": 1,
+    "RGBA": "76,120,88,255"
+  },
+  {
+    "Name": "Jadeite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/JADE-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600195",
+    "Pigment": "Genuine Jadeite | Series: 4",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -21.22228879568604,
+      "y": 17.74091778202677
+    },
+    "Pigments": [
+      "Genuine Jadeite"
+    ],
+    "Series": 4,
+    "RGBA": "54,114,50,255"
+  },
+  {
+    "Name": "Cobalt Green",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/COB-GRN_DS_WC_swatch.jpg",
+    "SKU": "284600026",
+    "Pigment": "PG 50 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -35.886758538046735,
+      "y": 27.605162523900574
+    },
+    "Pigments": [
+      "PG 50"
+    ],
+    "Series": 3,
+    "RGBA": "72,138,82,255"
+  },
+  {
+    "Name": "Spring Green",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/SPRG-GRN_DS_WC_swatch.jpg",
+    "SKU": "284600208",
+    "Pigment": "PY 53, PG 36, PY 151 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -45.93768723786699,
+      "y": 54.17973231357553
+    },
+    "Pigments": [
+      "PY 53",
+      "PG 36",
+      "PY 151"
+    ],
+    "Series": 3,
+    "RGBA": "69,170,78,255"
+  },
+  {
+    "Name": "Permanent Green Light",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PERM-GRN-LT_DS_WC_swatch.jpg",
+    "SKU": "284600067",
+    "Pigment": "PY 3, PG 7 | Series: 1",
+    "Lightfastness": "II – Very Good",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -50.946674655482326,
+      "y": 58.15487571701721
+    },
+    "Pigments": [
+      "PY 3",
+      "PG 7"
+    ],
+    "Series": 1,
+    "RGBA": "57,199,83,255"
+  },
+  {
+    "Name": "Phthalo Yellow Green",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PHT-YEL-GRN_DS_WC_swatch.jpg",
+    "SKU": "284600124",
+    "Pigment": "PG 36, PY 3 | Series: 1",
+    "Lightfastness": "II – Very Good",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -40.66506890353505,
+      "y": 77.88336520076481
+    },
+    "Pigments": [
+      "PG 36",
+      "PY 3"
+    ],
+    "Series": 1,
+    "RGBA": "147,244,92,255"
+  },
+  {
+    "Name": "Permanent Green",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PERM-GRN_DS_WC_swatch.jpg",
+    "SKU": "284600070",
+    "Pigment": "PY 3, PG 7 | Series: 1",
+    "Lightfastness": "II – Very Good",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -57.93289394847214,
+      "y": 38.94168260038241
+    },
+    "Pigments": [
+      "PY 3",
+      "PG 7"
+    ],
+    "Series": 1,
+    "RGBA": "17,151,85,255"
+  },
+  {
+    "Name": "Phthalo Green (Yellow Shade)",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PHT-GRN-YS_DS_WC_swatch.jpg",
+    "SKU": "284600079",
+    "Pigment": "PG 36 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "4-High Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -57.768124625524266,
+      "y": 30.034416826003824
+    },
+    "Pigments": [
+      "PG 36"
+    ],
+    "Series": 2,
+    "RGBA": "50,187,79,255"
+  },
+  {
+    "Name": "Hooker's Green",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/HKR-GRN_DS_WC_swatch.jpg",
+    "SKU": "284600042",
+    "Pigment": "PG 36, PY 3, PO 48, PY 150 | Series: 1",
+    "Lightfastness": "II – Very Good",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -37.17195925704014,
+      "y": 37.83747609942639
+    },
+    "Pigments": [
+      "PG 36",
+      "PY 3",
+      "PO 48",
+      "PY 150"
+    ],
+    "Series": 1,
+    "RGBA": "73,149,32,255"
+  },
+  {
+    "Name": "Sap Green",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/SAP-GRN_DS_WC_swatch.jpg",
+    "SKU": "284600102",
+    "Pigment": "PO 48, PY 150, PG 7 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -13.708807669263033,
+      "y": 46.74474187380497
+    },
+    "Pigments": [
+      "PO 48",
+      "PY 150",
+      "PG 7"
+    ],
+    "Series": 2,
+    "RGBA": "110,127,7,255"
+  },
+  {
+    "Name": "Serpentine Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/SERP-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600190",
+    "Pigment": "Genuine Serpentine | Series: 4",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -8.370281605751948,
+      "y": 48.2906309751434
+    },
+    "Pigments": [
+      "Genuine Serpentine"
+    ],
+    "Series": 4,
+    "RGBA": "159,156,29,255"
+  },
+  {
+    "Name": "Chromium Green Oxide",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/CHRO-GRN-OX_DS_WC_swatch.jpg",
+    "SKU": "284600024",
+    "Pigment": "PG 17 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Opaque",
+    "Position": {
+      "x": -13.576992210904734,
+      "y": 20.538240917782026
+    },
+    "Pigments": [
+      "PG 17"
+    ],
+    "Series": 1,
+    "RGBA": "39,83,27,255"
+  },
+  {
+    "Name": "Green Apatite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/GRN-APA-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600197",
+    "Pigment": "Genuine Green Apatite | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -9.721390053924507,
+      "y": 32.53728489483748
+    },
+    "Pigments": [
+      "Genuine Green Apatite"
+    ],
+    "Series": 3,
+    "RGBA": "104,126,27,255"
+  },
+  {
+    "Name": "Terre Verte",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/TER-VERT_DS_WC_swatch.jpg",
+    "SKU": "284600104",
+    "Pigment": "PG 18, PBr 7 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -15.817855002995806,
+      "y": 12.51434034416826
+    },
+    "Pigments": [
+      "PG 18",
+      "PBr 7"
+    ],
+    "Series": 1,
+    "RGBA": "95,129,97,255"
+  },
+  {
+    "Name": "Deep Sap Green",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/DP-SAP-GRN_DS_WC_swatch.jpg",
+    "SKU": "284600175",
+    "Pigment": "PB 27, PY 3, PO 48 | Series: 2",
+    "Lightfastness": "II – Very Good",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -14.994008388256441,
+      "y": 10.453154875717017
+    },
+    "Pigments": [
+      "PB 27",
+      "PY 3",
+      "PO 48"
+    ],
+    "Series": 2,
+    "RGBA": "223,229,222,255"
+  },
+  {
+    "Name": "Perylene Green",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PERY-GRN_DS_WC_swatch.jpg",
+    "SKU": "284600194",
+    "Pigment": "PBk 31 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -4.94307968843619,
+      "y": 5.079349904397706
+    },
+    "Pigments": [
+      "PBk 31"
+    ],
+    "Series": 2,
+    "RGBA": "59,70,36,255"
+  },
+  {
+    "Name": "Prussian Green",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PRUS-GRN_DS_WC_swatch.jpg",
+    "SKU": "284600128",
+    "Pigment": "PB 27, PY 97 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -18.5530257639305,
+      "y": -2.9445506692160612
+    },
+    "Pigments": [
+      "PB 27",
+      "PY 97"
+    ],
+    "Series": 1,
+    "RGBA": "43,85,79,255"
+  },
+  {
+    "Name": "Rare Green Earth",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/RAR-GRN-EAR_DS_WC_swatch.jpg",
+    "SKU": "284600181",
+    "Pigment": "Natural Rare Green Earth | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -5.30557219892151,
+      "y": 11.630975143403441
+    },
+    "Pigments": [
+      "Natural Rare Green Earth"
+    ],
+    "Series": 2,
+    "RGBA": "122,136,119,255"
+  },
+  {
+    "Name": "Undersea Green",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/UND-GRN_DS_WC_swatch.jpg",
+    "SKU": "284600109",
+    "Pigment": "PB 29, PO 48, PY 150 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -7.678250449370881,
+      "y": 21.64244741873805
+    },
+    "Pigments": [
+      "PB 29",
+      "PO 48",
+      "PY 150"
+    ],
+    "Series": 1,
+    "RGBA": "79,83,30,255"
+  },
+  {
+    "Name": "Zoisite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/ZOIS-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600180",
+    "Pigment": "Genuine Zoisite | Series: 4",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -7.447573397243859,
+      "y": 11.483747609942638
+    },
+    "Pigments": [
+      "Genuine Zoisite"
+    ],
+    "Series": 4,
+    "RGBA": "112,122,113,255"
+  },
+  {
+    "Name": "Olive Green",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/OLIV-GRN_DS_WC_swatch.jpg",
+    "SKU": "284600063",
+    "Pigment": "PY 97, PB 29, PBr 7 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 1.2522468544038348,
+      "y": 43.94741873804971
+    },
+    "Pigments": [
+      "PY 97",
+      "PB 29",
+      "PBr 7"
+    ],
+    "Series": 1,
+    "RGBA": "103,92,31,255"
+  },
+  {
+    "Name": "Green Gold",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/GRN-GLD_DS_WC_swatch.jpg",
+    "SKU": "284600139",
+    "Pigment": "PY 150, PY 3, PG 36 | Series: 2",
+    "Lightfastness": "II – Very Good",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -8.271420011983224,
+      "y": 82.30019120458891
+    },
+    "Pigments": [
+      "PY 150",
+      "PY 3",
+      "PG 36"
+    ],
+    "Series": 2,
+    "RGBA": "178,178,4,255"
+  },
+  {
+    "Name": "Rich Green Gold",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/RCH-GRN-GOL_DS_WC_swatch.jpg",
+    "SKU": "284600099",
+    "Pigment": "PY 129 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 3.8885560215698023,
+      "y": 72.95124282982792
+    },
+    "Pigments": [
+      "PY 129"
+    ],
+    "Series": 2,
+    "RGBA": "200,165,7,255"
+  },
+  {
+    "Name": "Nickel Azo Yellow",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/06/NIC-AZ-YEL_DS_WC_swatch-1.jpg",
+    "SKU": "284600061",
+    "Pigment": "PY 150 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 10.31455961653685,
+      "y": 92.53250478011472
+    },
+    "Pigments": [
+      "PY 150"
+    ],
+    "Series": 2,
+    "RGBA": "240,178,5,255"
+  },
+  {
+    "Name": "Bronzite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/BRNZ-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600199",
+    "Pigment": "Genuine Bronzite | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 14.565608148591972,
+      "y": 32.09560229445507
+    },
+    "Pigments": [
+      "Genuine Bronzite"
+    ],
+    "Series": 3,
+    "RGBA": "189,153,111,255"
+  },
+  {
+    "Name": "Verona Gold Ochre",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/VER-GLD-OCH_DS_WC_swatch.jpg",
+    "SKU": "284600123",
+    "Pigment": "PY 43 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 6.195326542840024,
+      "y": 33.5678776290631
+    },
+    "Pigments": [
+      "PY 43"
+    ],
+    "Series": 1,
+    "RGBA": "232,198,123,255"
+  },
+  {
+    "Name": "Burnt Bronzite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/BUR-BRZ-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600204",
+    "Pigment": "Genuine Burnt Bronzite | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 15.257639304973038,
+      "y": 15.606118546845124
+    },
+    "Pigments": [
+      "Genuine Burnt Bronzite"
+    ],
+    "Series": 3,
+    "RGBA": "146,96,74,255"
+  },
+  {
+    "Name": "French Ochre",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/FREN-OCH_DS_WC_swatch.jpg",
+    "SKU": "284600134",
+    "Pigment": "PY 43 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 13.148591971240265,
+      "y": 47.848948374760994
+    },
+    "Pigments": [
+      "PY 43"
+    ],
+    "Series": 1,
+    "RGBA": "251,204,112,255"
+  },
+  {
+    "Name": "Raw Sienna Light",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/RW-SIEN-LT_DS_WC_swatch.jpg",
+    "SKU": "284600233",
+    "Pigment": "PY 42 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 16.411024565608148,
+      "y": 60.363288718929255
+    },
+    "Pigments": [
+      "PY 42"
+    ],
+    "Series": 1,
+    "RGBA": "228,186,70,255"
+  },
+  {
+    "Name": "Burgundy Yellow Ochre",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/BRG-YEL-OCH_DS_WC_swatch.jpg",
+    "SKU": "284600147",
+    "Pigment": "PY 43 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 14.76333133612942,
+      "y": 55.06309751434034
+    },
+    "Pigments": [
+      "PY 43"
+    ],
+    "Series": 2,
+    "RGBA": "222,186,90,255"
+  },
+  {
+    "Name": "Chrome Titanate Yellow",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/Chrome-Titanite-Yellow-Swatch.jpg",
+    "SKU": "284600253",
+    "Pigment": "PBr 24 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Opaque",
+    "Position": {
+      "x": 14.829239065308569,
+      "y": 41.00286806883365
+    },
+    "Pigments": [
+      "PBr 24"
+    ],
+    "Series": 2,
+    "RGBA": "251,196,94,255"
+  },
+  {
+    "Name": "Yellow Ochre",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/YEL-OCH_DS_WC_swatch.jpg",
+    "SKU": "284600114",
+    "Pigment": "PY 43 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 19.904134212103056,
+      "y": 58.89101338432123
+    },
+    "Pigments": [
+      "PY 43"
+    ],
+    "Series": 1,
+    "RGBA": "237,168,42,255"
+  },
+  {
+    "Name": "Mars Yellow",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/MAR-YEL_DS_WC_swatch.jpg",
+    "SKU": "284600054",
+    "Pigment": "PY 42 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 23.397243858597964,
+      "y": 63.602294455066925
+    },
+    "Pigments": [
+      "PY 42"
+    ],
+    "Series": 1,
+    "RGBA": "226,149,8,255"
+  },
+  {
+    "Name": "Yavapai Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/YAVA-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600146",
+    "Pigment": "Natural Brown Ochre | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 12.390653085680048,
+      "y": 27.605162523900574
+    },
+    "Pigments": [
+      "Natural Brown Ochre"
+    ],
+    "Series": 2,
+    "RGBA": "189,145,103,255"
+  },
+  {
+    "Name": "Raw Sienna",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/RAW-SIEN_DS_WC_swatch.jpg",
+    "SKU": "284600096",
+    "Pigment": "PBr 7 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 25.110844817255842,
+      "y": 52.9282982791587
+    },
+    "Pigments": [
+      "PBr 7"
+    ],
+    "Series": 1,
+    "RGBA": "231,151,36,255"
+  },
+  {
+    "Name": "Transparent Yellow Oxide",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/TRAN-YEL-OX_DS_WC_swatch.jpg",
+    "SKU": "284600131",
+    "Pigment": "PY 42 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 22.63930497303775,
+      "y": 56.38814531548757
+    },
+    "Pigments": [
+      "PY 42"
+    ],
+    "Series": 1,
+    "RGBA": "196,147,62,255"
+  },
+  {
+    "Name": "Monte Amiata Natual Sienna",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/MA-NAT-SIEN_DS_WC_swatch.jpg",
+    "SKU": "284600056",
+    "Pigment": "PBr 7 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 13.280407429598563,
+      "y": 55.72562141491396
+    },
+    "Pigments": [
+      "PBr 7"
+    ],
+    "Series": 1,
+    "RGBA": "162,77,38,255"
+  },
+  {
+    "Name": "Enviro-Friendly Red Iron Oxide",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/EF-RED-IR-OX_DS_WC_swatch.jpg",
+    "SKU": "284600177",
+    "Pigment": "PBr 6 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 27.549430796884362,
+      "y": 25.543977055449332
+    },
+    "Pigments": [
+      "PBr 6"
+    ],
+    "Series": 2,
+    "RGBA": "118,57,39,255"
+  },
+  {
+    "Name": "Goethite (Brown Ochre)",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/GOET-BO_DS_WC_swatch.jpg",
+    "SKU": "284600144",
+    "Pigment": "PY 43 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 19.508687837028162,
+      "y": 43.3585086042065
+    },
+    "Pigments": [
+      "PY 43"
+    ],
+    "Series": 1,
+    "RGBA": "173,137,85,255"
+  },
+  {
+    "Name": "Quinacridone Deep Gold",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/QUIN-DP-GLD_DS_WC_swatch.jpg",
+    "SKU": "284600152",
+    "Pigment": "PO 48, PY 150 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 29.790293588975437,
+      "y": 59.77437858508604
+    },
+    "Pigments": [
+      "PO 48",
+      "PY 150"
+    ],
+    "Series": 2,
+    "RGBA": "215,117,12,255"
+  },
+  {
+    "Name": "Italian Deep Ochre",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/ITAL-DP-OCH_DS_WC_swatch.jpg",
+    "SKU": "284600135",
+    "Pigment": "PY 43 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 10.31455961653685,
+      "y": 31.65391969407266
+    },
+    "Pigments": [
+      "PY 43"
+    ],
+    "Series": 1,
+    "RGBA": "204,154,109,255"
+  },
+  {
+    "Name": "Lunar Earth",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/LUN-EART_DS_WC_swatch.jpg",
+    "SKU": "284600050",
+    "Pigment": "PBr 11 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 20.20071899340923,
+      "y": 25.02868068833652
+    },
+    "Pigments": [
+      "PBr 11"
+    ],
+    "Series": 1,
+    "RGBA": "197,156,135,255"
+  },
+  {
+    "Name": "Burnt Yellow Ochre",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/BUR-YEL-OCH_DS_WC_swatch.jpg",
+    "SKU": "284600170",
+    "Pigment": "PR 102 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 37.50149790293589,
+      "y": 32.31644359464627
+    },
+    "Pigments": [
+      "PR 102"
+    ],
+    "Series": 2,
+    "RGBA": "164,88,66,255"
+  },
+  {
+    "Name": "Garnet Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/GARN-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600205",
+    "Pigment": "Genuine Garnet | Series: 4",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 40.30257639304973,
+      "y": 34.08317399617591
+    },
+    "Pigments": [
+      "Genuine Garnet"
+    ],
+    "Series": 4,
+    "RGBA": "153,78,56,255"
+  },
+  {
+    "Name": "Roasted French Ochre",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/RST-FREN-OCH_DS_WC_swatch.jpg",
+    "SKU": "284600171",
+    "Pigment": "PR 102 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 32.65727980826843,
+      "y": 38.79445506692161
+    },
+    "Pigments": [
+      "PR 102"
+    ],
+    "Series": 2,
+    "RGBA": "181,118,83,255"
+  },
+  {
+    "Name": "Burgundy Red Ochre",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/BUR-RED-OCH_DS_WC_swatch.jpg",
+    "SKU": "284600151",
+    "Pigment": "PR 102 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 28.505092869982025,
+      "y": 37.98470363288719
+    },
+    "Pigments": [
+      "PR 102"
+    ],
+    "Series": 2,
+    "RGBA": "172,111,79,255"
+  },
+  {
+    "Name": "Indian Red",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/INDN-RED_DS_WC_swatch.jpg",
+    "SKU": "284600044",
+    "Pigment": "PR 101 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Opaque",
+    "Position": {
+      "x": 26.066506890353505,
+      "y": 18.108986615678777
+    },
+    "Pigments": [
+      "PR 101"
+    ],
+    "Series": 1,
+    "RGBA": "98,49,42,255"
+  },
+  {
+    "Name": "Venetian Red",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/VENE-RED_DS_WC_swatch.jpg",
+    "SKU": "284600111",
+    "Pigment": "PR 101 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Opaque",
+    "Position": {
+      "x": 33.64589574595566,
+      "y": 26.574569789674953
+    },
+    "Pigments": [
+      "PR 101"
+    ],
+    "Series": 1,
+    "RGBA": "123,56,40,255"
+  },
+  {
+    "Name": "Italian Burnt Sienna",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/ITA-BUR-SNA_DS_WC_swatch.jpg",
+    "SKU": "284600047",
+    "Pigment": "PBr 7 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 30.84481725584182,
+      "y": 38.86806883365201
+    },
+    "Pigments": [
+      "PBr 7"
+    ],
+    "Series": 2,
+    "RGBA": "185,88,52,255"
+  },
+  {
+    "Name": "Quinacridone Burnt Orange",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/QUIN-BUR-ORG_DS_WC_swatch.jpg",
+    "SKU": "284600086",
+    "Pigment": "PO 48 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 36.77651288196525,
+      "y": 47.40726577437859
+    },
+    "Pigments": [
+      "PO 48"
+    ],
+    "Series": 2,
+    "RGBA": "211,112,48,255"
+  },
+  {
+    "Name": "Quinacridone Sienna",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/QUIN-SIEN_DS_WC_swatch.jpg",
+    "SKU": "284600093",
+    "Pigment": "PO 48, PY 150, PR 209 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 45.70701018573997,
+      "y": 55.652007648183556
+    },
+    "Pigments": [
+      "PO 48",
+      "PY 150",
+      "PR 209"
+    ],
+    "Series": 2,
+    "RGBA": "232,107,32,255"
+  },
+  {
+    "Name": "Pompeii Red",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/POM-RED_DS_WC_swatch.jpg",
+    "SKU": "284600116",
+    "Pigment": "PBr 7 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 27.87896944278011,
+      "y": 42.18068833652008
+    },
+    "Pigments": [
+      "PBr 7"
+    ],
+    "Series": 2,
+    "RGBA": "208,128,80,255"
+  },
+  {
+    "Name": "Red Fuchsite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/RED-FUCH-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600189",
+    "Pigment": "Genuine Red Fuchsite | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 24.616536848412224,
+      "y": 14.575525812619503
+    },
+    "Pigments": [
+      "Genuine Red Fuchsite"
+    ],
+    "Series": 3,
+    "RGBA": "165,92,79,255"
+  },
+  {
+    "Name": "Terre Ercolano",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/TER-ERCO_DS_WC_swatch.jpg",
+    "SKU": "284600117",
+    "Pigment": "PBr 7, PR 101 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 31.207309766327143,
+      "y": 34.81931166347992
+    },
+    "Pigments": [
+      "PBr 7",
+      "PR 101"
+    ],
+    "Series": 2,
+    "RGBA": "223,169,149,255"
+  },
+  {
+    "Name": "Minnesota Pipestone Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/MIN-PIPE-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600143",
+    "Pigment": "Genuine Catlinite | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 21.123427201917316,
+      "y": 19.2131931166348
+    },
+    "Pigments": [
+      "Genuine Catlinite"
+    ],
+    "Series": 2,
+    "RGBA": "222,175,162,255"
+  },
+  {
+    "Name": "Italian Venetian Red",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/ITA-VEN-RED_DS_WC_swatch.jpg",
+    "SKU": "284600122",
+    "Pigment": "PR 101 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 19.310964649490714,
+      "y": 18.77151051625239
+    },
+    "Pigments": [
+      "PR 101"
+    ],
+    "Series": 1,
+    "RGBA": "255,244,237,255"
+  },
+  {
+    "Name": "English Red Earth",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/ENG-RED-EAR_DS_WC_swatch.jpg",
+    "SKU": "284600137",
+    "Pigment": "PR 101 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Opaque",
+    "Position": {
+      "x": 29.724385859796286,
+      "y": 27.38432122370937
+    },
+    "Pigments": [
+      "PR 101"
+    ],
+    "Series": 1,
+    "RGBA": "183,121,105,255"
+  },
+  {
+    "Name": "Red Jasper Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/RED-JSP-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600240",
+    "Pigment": "Genuine Red Jasper | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 21.749550629119234,
+      "y": 23.55640535372849
+    },
+    "Pigments": [
+      "Genuine Red Jasper"
+    ],
+    "Series": 3,
+    "RGBA": "185,106,87,255"
+  },
+  {
+    "Name": "Hematite Burnt Scarlet Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/HEMA-BUR-SCR-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600158",
+    "Pigment": "Genuine Hematite | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 20.925704014379868,
+      "y": 28.26768642447419
+    },
+    "Pigments": [
+      "Genuine Hematite"
+    ],
+    "Series": 3,
+    "RGBA": "155,123,105,255"
+  },
+  {
+    "Name": "Quinacridone Burnt Scarlet",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/QUIN-BUR-SCAR_DS_WC_swatch.jpg",
+    "SKU": "284600087",
+    "Pigment": "PR 206 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 41.78550029958059,
+      "y": 34.59847036328872
+    },
+    "Pigments": [
+      "PR 206"
+    ],
+    "Series": 2,
+    "RGBA": "198,90,56,255"
+  },
+  {
+    "Name": "Perylene Maroon",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PERY-MAR_DS_WC_swatch.jpg",
+    "SKU": "284600074",
+    "Pigment": "PR 179 | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "4-High Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 37.07309766327142,
+      "y": 21.64244741873805
+    },
+    "Pigments": [
+      "PR 179"
+    ],
+    "Series": 3,
+    "RGBA": "111,45,39,255"
+  },
+  {
+    "Name": "Sedona Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/SEDO-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600145",
+    "Pigment": "Natural Red Ochre | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 25.110844817255842,
+      "y": 31.580305927342256
+    },
+    "Pigments": [
+      "Natural Red Ochre"
+    ],
+    "Series": 2,
+    "RGBA": "239,218,209,255"
+  },
+  {
+    "Name": "Deep Scarlet",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/DP-SCAR_DS_WC_swatch.jpg",
+    "SKU": "284600033",
+    "Pigment": "PR 175 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 41.15937687237867,
+      "y": 29.151051625239006
+    },
+    "Pigments": [
+      "PR 175"
+    ],
+    "Series": 1,
+    "RGBA": "200,32,11,255"
+  },
+  {
+    "Name": "Naphthamide Maroon",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/NAPH-MAR_DS_WC_swatch.jpg",
+    "SKU": "284600059",
+    "Pigment": "PR 171 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 29.856201318154586,
+      "y": 12.367112810707457
+    },
+    "Pigments": [
+      "PR 171"
+    ],
+    "Series": 1,
+    "RGBA": "83,37,32,255"
+  },
+  {
+    "Name": "Lunar Red Rock",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/LUN-RED-RK_DS_WC_swatch.jpg",
+    "SKU": "284600141",
+    "Pigment": "PR 101 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 17.36668663870581,
+      "y": 12.367112810707457
+    },
+    "Pigments": [
+      "PR 101"
+    ],
+    "Series": 1,
+    "RGBA": "108,59,53,255"
+  },
+  {
+    "Name": "Piemontite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PIEM-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600191",
+    "Pigment": "Genuine Piemontite | Series: 4",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 19.904134212103056,
+      "y": 10.08508604206501
+    },
+    "Pigments": [
+      "Genuine Piemontite"
+    ],
+    "Series": 4,
+    "RGBA": "131,95,87,255"
+  },
+  {
+    "Name": "Tiger's Eye Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/TIG-EYE-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600161",
+    "Pigment": "Genuine Tiger's Eye | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 6.656680647094069,
+      "y": 21.936902485659655
+    },
+    "Pigments": [
+      "Genuine Tiger's Eye"
+    ],
+    "Series": 2,
+    "RGBA": "199,180,143,255"
+  },
+  {
+    "Name": "Burnt Tiger's Eye Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/BUR-TIG-EYE-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600162",
+    "Pigment": "Genuine Burnt Tiger's Eye | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 14.301977231875375,
+      "y": 22.673040152963672
+    },
+    "Pigments": [
+      "Genuine Burnt Tiger's Eye"
+    ],
+    "Series": 2,
+    "RGBA": "168,147,102,255"
+  },
+  {
+    "Name": "Hematite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/HEMA-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600156",
+    "Pigment": "Genuine Hematite | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 2.2738166566806473,
+      "y": 8.023900573613767
+    },
+    "Pigments": [
+      "Genuine Hematite"
+    ],
+    "Series": 3,
+    "RGBA": "173,159,126,255"
+  },
+  {
+    "Name": "German Greenish Raw Umber",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/GER-GRN-R-UMB_DS_WC_swatch.jpg",
+    "SKU": "284600121",
+    "Pigment": "PBr 7 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 5.503295386458958,
+      "y": 29.739961759082217
+    },
+    "Pigments": [
+      "PBr 7"
+    ],
+    "Series": 1,
+    "RGBA": "144,129,94,255"
+  },
+  {
+    "Name": "Hematite Violet Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/HEMA-VIO-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600157",
+    "Pigment": "Genuine Hematite | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 9.721390053924507,
+      "y": 11.042065009560229
+    },
+    "Pigments": [
+      "Genuine Hematite"
+    ],
+    "Series": 3,
+    "RGBA": "150,119,109,255"
+  },
+  {
+    "Name": "Mummy Bauxite",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/MUM-BAUX_DS_WC_swatch.jpg",
+    "SKU": "284600166",
+    "Pigment": "Natural Iron Oxide – Bauxite | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 20.892750149790295,
+      "y": 34.15678776290631
+    },
+    "Pigments": [
+      "Natural Iron Oxide – Bauxite"
+    ],
+    "Series": 1,
+    "RGBA": "165,66,28,255"
+  },
+  {
+    "Name": "Permanent Brown",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/PERM-BRN_DS_WC_swatch.jpg",
+    "SKU": "284600068",
+    "Pigment": "PBr 25 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 31.60275614140204,
+      "y": 26.648183556405353
+    },
+    "Pigments": [
+      "PBr 25"
+    ],
+    "Series": 2,
+    "RGBA": "127,60,34,255"
+  },
+  {
+    "Name": "Quinacridone Gold",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/QUIN-GLD_DS_WC_swatch.jpg",
+    "SKU": "284600238",
+    "Pigment": "PO 48, PY 150 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 22.837028160575194,
+      "y": 71.9206500956023
+    },
+    "Pigments": [
+      "PO 48",
+      "PY 150"
+    ],
+    "Series": 2,
+    "RGBA": "233,153,9,255"
+  },
+  {
+    "Name": "Raw Umber Violet",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/RAW-UMB-VIO_DS_WC_swatch.jpg",
+    "SKU": "284600098",
+    "Pigment": "PBr 7, PV 19 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 16.54284002396645,
+      "y": 13.913001912045889
+    },
+    "Pigments": [
+      "PBr 7",
+      "PV 19"
+    ],
+    "Series": 1,
+    "RGBA": "105,56,51,255"
+  },
+  {
+    "Name": "Transparent Brown Oxide",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/TRAN-BRN-OX_DS_WC_swatch.jpg",
+    "SKU": "284600129",
+    "Pigment": "PR 101 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 25.30856800479329,
+      "y": 27.97323135755258
+    },
+    "Pigments": [
+      "PR 101"
+    ],
+    "Series": 1,
+    "RGBA": "95,51,33,255"
+  },
+  {
+    "Name": "Transparent Red Oxide",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/TRAN-RED-OX_DS_WC_swatch.jpg",
+    "SKU": "284600130",
+    "Pigment": "PR 101 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 30.7459556620731,
+      "y": 25.249521988527725
+    },
+    "Pigments": [
+      "PR 101"
+    ],
+    "Series": 1,
+    "RGBA": "132,66,41,255"
+  },
+  {
+    "Name": "Fired Gold Ochre",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/TRAN-RED-OX_DS_WC_swatch.jpg",
+    "SKU": "284600172",
+    "Pigment": "PR 102 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 20.332534451767525,
+      "y": 20.538240917782026
+    },
+    "Pigments": [
+      "PR 102"
+    ],
+    "Series": 2,
+    "RGBA": "188,124,106,255"
+  },
+  {
+    "Name": "Burnt Sienna Light",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/BUR-SIEN-LT_DS_WC_swatch.jpg",
+    "SKU": "284600230",
+    "Pigment": "PR 101, PO 48 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 26.198322348711805,
+      "y": 33.12619502868069
+    },
+    "Pigments": [
+      "PR 101",
+      "PO 48"
+    ],
+    "Series": 1,
+    "RGBA": "212,150,112,255"
+  },
+  {
+    "Name": "Enviro-Friendly Brown Iron Oxide",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/EF-BRN-IR-OX_DS_WC_swatch.jpg",
+    "SKU": "284600178",
+    "Pigment": "PBr 6 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 18.35530257639305,
+      "y": 24.439770554493307
+    },
+    "Pigments": [
+      "PBr 6"
+    ],
+    "Series": 2,
+    "RGBA": "80,49,30,255"
+  },
+  {
+    "Name": "Burnt Sienna",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/EF-BRN-IR-OX_DS_WC_swatch.jpg",
+    "SKU": "284600010",
+    "Pigment": "PBr 7 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 30.31755542240863,
+      "y": 36.217973231357554
+    },
+    "Pigments": [
+      "PBr 7"
+    ],
+    "Series": 1,
+    "RGBA": "191,116,91,255"
+  },
+  {
+    "Name": "English Red Ochre",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/ENG-RED-OCH_DS_WC_swatch.jpg",
+    "SKU": "284600136",
+    "Pigment": "PR 101 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 27.31875374475734,
+      "y": 29.960803059273424
+    },
+    "Pigments": [
+      "PR 101"
+    ],
+    "Series": 1,
+    "RGBA": "174,61,17,255"
+  },
+  {
+    "Name": "Burnt Umber",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/BUR-UMB_DS_WC_swatch.jpg",
+    "SKU": "284600011",
+    "Pigment": "PBr 7 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 15.62013181545836,
+      "y": 26.353728489483746
+    },
+    "Pigments": [
+      "PBr 7"
+    ],
+    "Series": 1,
+    "RGBA": "124,75,18,255"
+  },
+  {
+    "Name": "Enviro-Friendly Yellow Iron Oxide",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/EF-YEL-IR-OX_DS_WC_swatch.jpg",
+    "SKU": "284600176",
+    "Pigment": "PBr 6 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 25.86878370281606,
+      "y": 35.99713193116635
+    },
+    "Pigments": [
+      "PBr 6"
+    ],
+    "Series": 2,
+    "RGBA": "120,63,36,255"
+  },
+  {
+    "Name": "Raw Umber",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/RAW-UMB_DS_WC_swatch.jpg",
+    "SKU": "284600097",
+    "Pigment": "PBr 7 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 8.040742959856201,
+      "y": 23.409177820267686
+    },
+    "Pigments": [
+      "PBr 7"
+    ],
+    "Series": 1,
+    "RGBA": "111,81,21,255"
+  },
+  {
+    "Name": "Sepia",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/SEPI_DS_WC_swatch.jpg",
+    "SKU": "284600103",
+    "Pigment": "PBr 7, PBk 9 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 8.073696824445776,
+      "y": 18.403441682600384
+    },
+    "Pigments": [
+      "PBr 7",
+      "PBk 9"
+    ],
+    "Series": 1,
+    "RGBA": "112,81,31,255"
+  },
+  {
+    "Name": "Sicklerite Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/SICK-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600209",
+    "Pigment": "Genuine Sicklerite | Series: 4",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 6.360095865787898,
+      "y": 14.4282982791587
+    },
+    "Pigments": [
+      "Genuine Sicklerite"
+    ],
+    "Series": 4,
+    "RGBA": "171,151,126,255"
+  },
+  {
+    "Name": "Van Dyck Brown",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/VAN-D-BRN_DS_WC_swatch.jpg",
+    "SKU": "284600110",
+    "Pigment": "Blend of Umbers, Siennas, PBr 7 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 7.579388855602158,
+      "y": 15.311663479923519
+    },
+    "Pigments": [
+      "Blend of Umbers",
+      "Siennas",
+      "PBr 7"
+    ],
+    "Series": 1,
+    "RGBA": "102,96,84,255"
+  },
+  {
+    "Name": "Bloodstone Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/BLOOD-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600193",
+    "Pigment": "Genuine Bloodstone | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 7.019173157579389,
+      "y": 6.846080305927343
+    },
+    "Pigments": [
+      "Genuine Bloodstone"
+    ],
+    "Series": 2,
+    "RGBA": "154,126,105,255"
+  },
+  {
+    "Name": "Lunar Violet",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/LUN-VIO_DS_WC_swatch.jpg",
+    "SKU": "284600182",
+    "Pigment": "PV 15, PBk 11 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 8.337327741162373,
+      "y": -9.422562141491396
+    },
+    "Pigments": [
+      "PV 15",
+      "PBk 11"
+    ],
+    "Series": 2,
+    "RGBA": "221,220,222,255"
+  },
+  {
+    "Name": "Neutral Tint",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/NEUT-TNT_DS_WC_swatch.jpg",
+    "SKU": "284600229",
+    "Pigment": "PBk 6, PV 19, PB 15 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 1.7795086878370283,
+      "y": -3.754302103250478
+    },
+    "Pigments": [
+      "PBk 6",
+      "PV 19",
+      "PB 15"
+    ],
+    "Series": 1,
+    "RGBA": "75,65,64,255"
+  },
+  {
+    "Name": "Graphite Gray",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/GRAP-GRY_DS_WC_swatch.jpg",
+    "SKU": "284600038",
+    "Pigment": "PBk 10 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Opaque",
+    "Position": {
+      "x": 3.196524865188736,
+      "y": 3.901529636711281
+    },
+    "Pigments": [
+      "PBk 10"
+    ],
+    "Series": 1,
+    "RGBA": "91,89,85,255"
+  },
+  {
+    "Name": "Jane's Grey",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/JANE-GRY_DS_WC_swatch.jpg",
+    "SKU": "284600239",
+    "Pigment": "PB 29, PBr 7 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -1.0874775314559617,
+      "y": -2.723709369024857
+    },
+    "Pigments": [
+      "PB 29",
+      "PBr 7"
+    ],
+    "Series": 2,
+    "RGBA": "103,99,117,255"
+  },
+  {
+    "Name": "Payne's Gray Blue",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/PAY-BLU-GRY_DS_WC_swatch.jpg",
+    "SKU": "284600235",
+    "Pigment": "PB 60, PBk 6 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -0.5602156980227682,
+      "y": -8.244741873804971
+    },
+    "Pigments": [
+      "PB 60",
+      "PBk 6"
+    ],
+    "Series": 1,
+    "RGBA": "41,54,64,255"
+  },
+  {
+    "Name": "Payne's Gray",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/PAY-GRY_DS_WC_swatch.jpg",
+    "SKU": "284600065",
+    "Pigment": "PB 29, PBk 9 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -1.7795086878370283,
+      "y": -4.7848948374761
+    },
+    "Pigments": [
+      "PB 29",
+      "PBk 9"
+    ],
+    "Series": 1,
+    "RGBA": "215,214,219,255"
+  },
+  {
+    "Name": "Alvaro's Caliente Grey",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/ALV-CALI-GRY_DS_WC_swatch.jpg",
+    "SKU": "284600243",
+    "Pigment": "PBr 7, PB 29, PBk 6 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 1.7465548232474537,
+      "y": 14.501912045889101
+    },
+    "Pigments": [
+      "PBr 7",
+      "PB 29",
+      "PBk 6"
+    ],
+    "Series": 2,
+    "RGBA": "69,68,54,255"
+  },
+  {
+    "Name": "Alvaro's Fresco Grey",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/ALV-FRE-GRY_DS_WC_swatch.jpg",
+    "SKU": "284600242",
+    "Pigment": "PB 29, PV 15, PW 6 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 0.9556620730976633,
+      "y": -6.919694072657744
+    },
+    "Pigments": [
+      "PB 29",
+      "PV 15",
+      "PW 6"
+    ],
+    "Series": 2,
+    "RGBA": "77,81,96,255"
+  },
+  {
+    "Name": "Joseph Z's Warm Grey",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/JOE-WM-GRY_DS_WC_swatch.jpg",
+    "SKU": "284600246",
+    "Pigment": "PY 43, PV 19, PBk 6 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 1.5158777711204314,
+      "y": 10.305927342256215
+    },
+    "Pigments": [
+      "PY 43",
+      "PV 19",
+      "PBk 6"
+    ],
+    "Series": 2,
+    "RGBA": "197,194,184,255"
+  },
+  {
+    "Name": "Joseph Z's Neutral Grey",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/JOE-NEU-GRY_DS_WC_swatch.jpg",
+    "SKU": "284600244",
+    "Pigment": "PB 29, PBk 9, PBk 10 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -1.1863391252246855,
+      "y": 10.08508604206501
+    },
+    "Pigments": [
+      "PB 29",
+      "PBk 9",
+      "PBk 10"
+    ],
+    "Series": 2,
+    "RGBA": "232,232,232,255"
+  },
+  {
+    "Name": "Joseph Z's Cool Grey",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/JOE-CL-GRY_DS_WC_swatch.jpg",
+    "SKU": "284600245",
+    "Pigment": "PB 36, PV 19, PBk 6 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -5.569203115638107,
+      "y": 1.7667304015296368
+    },
+    "Pigments": [
+      "PB 36",
+      "PV 19",
+      "PBk 6"
+    ],
+    "Series": 2,
+    "RGBA": "55,67,72,255"
+  },
+  {
+    "Name": "Black (Red/Green)",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/Black-Red-Green-Swatch.jpg",
+    "SKU": "284600249",
+    "Pigment": "PG 7, PR 264 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "3-Medium Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 4.415817855002996,
+      "y": -0.14722753346080306
+    },
+    "Pigments": [
+      "PG 7",
+      "PR 264"
+    ],
+    "Series": 2,
+    "RGBA": "67,67,73,255"
+  },
+  {
+    "Name": "Black (Blue/Orange)",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/Black-Blue-Orange-Swatch.jpg",
+    "SKU": "284600250",
+    "Pigment": "PB 15:6, PR 188, PO 71 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 5.832834032354704,
+      "y": 3.3862332695984705
+    },
+    "Pigments": [
+      "PB 15:6",
+      "PR 188",
+      "PO 71"
+    ],
+    "Series": 2,
+    "RGBA": "63,55,57,255"
+  },
+  {
+    "Name": "McCracken Black",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/MCRKN-BLK_DS_WC_swatch.jpg",
+    "SKU": "284600248",
+    "Pigment": "PB 27, PR 101, PV 23, PV 19, PR 177, PY 150, PR 149 | Series: 2",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 0.4284002396644698,
+      "y": -8.318355640535373
+    },
+    "Pigments": [
+      "PB 27",
+      "PR 101",
+      "PV 23",
+      "PV 19",
+      "PR 177",
+      "PY 150",
+      "PR 149"
+    ],
+    "Series": 2,
+    "RGBA": "83,85,100,255"
+  },
+  {
+    "Name": "Ivory Black",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/10/IVO-BLK_DS_WC_swatch.jpg",
+    "SKU": "284600048",
+    "Pigment": "PBk 9 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 4.152186938286399,
+      "y": 8.391969407265774
+    },
+    "Pigments": [
+      "PBk 9"
+    ],
+    "Series": 1,
+    "RGBA": "48,49,43,255"
+  },
+  {
+    "Name": "Lamp Black",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/LP-BLK_DS_WC_swatch.jpg",
+    "SKU": "284600003",
+    "Pigment": "PBk 6 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "4-High Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Opaque",
+    "Position": {
+      "x": 1.6476932294787299,
+      "y": 2.1347992351816445
+    },
+    "Pigments": [
+      "PBk 6"
+    ],
+    "Series": 1,
+    "RGBA": "14,21,15,255"
+  },
+  {
+    "Name": "Lunar Black",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/LUN-BLK_DS_WC_swatch.jpg",
+    "SKU": "284600049",
+    "Pigment": "PBk 11 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "2-Low Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": 4.415817855002996,
+      "y": 5.594646271510516
+    },
+    "Pigments": [
+      "PBk 11"
+    ],
+    "Series": 1,
+    "RGBA": "101,91,77,255"
+  },
+  {
+    "Name": "Black Tourmaline Genuine",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/BLK-TRM-GEN_DS_WC_swatch.jpg",
+    "SKU": "284600207",
+    "Pigment": "Genuine Black Tourmaline | Series: 3",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Transparent",
+    "Position": {
+      "x": -0.659077291791492,
+      "y": 2.4292543021032507
+    },
+    "Pigments": [
+      "Genuine Black Tourmaline"
+    ],
+    "Series": 3,
+    "RGBA": "122,125,119,255"
+  },
+  {
+    "Name": "Gray Titanium",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/GRY-TIT_DS_WC_swatch.jpg",
+    "SKU": "284600241",
+    "Pigment": "PW 6 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 0.8238466147393649,
+      "y": 19.949330783938816
+    },
+    "Pigments": [
+      "PW 6"
+    ],
+    "Series": 1,
+    "RGBA": "168,157,131,255"
+  },
+  {
+    "Name": "Chinese White",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/CHIN-WHT_DS_WC_swatch.jpg",
+    "SKU": "284600023",
+    "Pigment": "PW 4 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": 0.39544637507489516,
+      "y": 5.5210325047801145
+    },
+    "Pigments": [
+      "PW 4"
+    ],
+    "Series": 1,
+    "RGBA": "246,241,236,255"
+  },
+  {
+    "Name": "Titanium White",
+    "SwatchUrl": "https://danielsmith.com/wp-content/uploads/2022/09/TIT-WHT_DS_WC_swatch.jpg",
+    "SKU": "284600118",
+    "Pigment": "PW 6 | Series: 1",
+    "Lightfastness": "I – Excellent",
+    "Staining": "1-Non-Staining",
+    "Granulation": "Non-Granulating",
+    "Transparency": "Semi-Transparent",
+    "Position": {
+      "x": -0.09886159376872379,
+      "y": 7.876673040152964
+    },
+    "Pigments": [
+      "PW 6"
+    ],
+    "Series": 1,
+    "RGBA": "227,229,229,255"
+  }
+]

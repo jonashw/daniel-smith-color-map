@@ -1,24 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import {  Color, Colors } from './Color';
+import ColorExplorer from './ColorExplorer';
 
 function App() {
+  const [colors,setColors] = React.useState(Colors([]));
+
+  React.useEffect(() => {
+    const effect = async () => {
+      let r = await fetch('/colors.json');
+      let data: Color[] = await r.json() as Color[];
+      setColors(Colors(data));
+    };
+    effect();
+  }, []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {colors.all.length > 0 && <ColorExplorer colors={colors} />}
     </div>
   );
 }
