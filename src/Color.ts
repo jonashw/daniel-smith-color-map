@@ -28,7 +28,7 @@ export type Colors = {
     thatAreConstituentsOf: (product: Color) => Color[];
 }
 
-export const Colors = (colors: Color[]): Colors => {
+export const processColors = (colors: Color[]): Colors => {
     colors.sort((a,b) => a.Name > b.Name ? 1 : a.Name < b.Name ? -1 : 0);
     const byName = Object.fromEntries(colors.map(c => [c.Name, c]));
 
@@ -48,16 +48,6 @@ export const Colors = (colors: Color[]): Colors => {
             (c.Pigments || [])[0],
             c.Name
         ]));
-
-    const mixes = 
-        Object.fromEntries(
-            colors
-            .filter(c => (c.Pigments || []).length > 1)
-            .map(c => [
-            c.Name,
-            (c.Pigments || []).map(p => [p, singlePigmentColors[p]])
-            ])
-        );
 
     const withPigmentSets = colors.map(c => ({color: c, pigmentSet: new Set(c.Pigments)}));
 

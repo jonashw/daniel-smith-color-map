@@ -1,5 +1,5 @@
 import React from 'react';
-import {  Color, Colors } from './Color';
+import {  Color, processColors } from './Color';
 import ColorExplorer from './ColorExplorer';
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     const effect = async () => {
       let r = await fetch('/colors.json');
       let data: Color[] = await r.json() as Color[];
-      setColors(Colors(data));
+      setColors(processColors(data));
     };
     effect();
   }, []);
