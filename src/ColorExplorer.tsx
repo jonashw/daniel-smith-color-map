@@ -72,7 +72,7 @@ function ColorExplorer({colors} : {colors: Colors}) {
   const [selectedColors,setSelectedColors] = React.useState<Set<Color>>(new Set<Color>());
   const [singlesOnly,setSinglesOnly] = React.useState<boolean>(false);
   const [onlyActiveNeighborhoodVisible, setOnlyActiveNeighborhoodVisible] = React.useState(false);
-  const [colorProfilePopupOpen,setColorProfilePopupOpen] = React.useState(true);
+  const [colorProfilePopupOpen,setColorProfilePopupOpen] = React.useState(false);
 
   const availableColors: Color[] = singlesOnly ? colors.all.filter(c => c.Pigments.length === 1) : colors.all;
   const toggleSelectedColor = (c: Color) => 
