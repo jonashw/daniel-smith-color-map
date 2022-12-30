@@ -21,7 +21,8 @@ export type Colors = {
     bbox: BBox;
     byPigment: {[pigment: string]: string[]};
     byName: {[name: string]: Color};
-    singlePigmentColors: {[pigment: string]: string};
+    singlePigmentColorNames: {[pigment: string]: string};
+    singlePigmentColors: {[pigment: string]: Color};
     all: Color[];
     withPigmentSets: {color: Color; pigmentSet: Set<string>}[];
     thatHaveAConstituent: (c: Color) => Color[];
@@ -46,6 +47,14 @@ export const processColors = (colors: Color[]): Colors => {
         .filter(c => (c.Pigments || []).length === 1)
         .map(c => [
             (c.Pigments || [])[0],
+            c
+        ]));
+
+    const singlePigmentColorNames = Object.fromEntries(
+        colors
+        .filter(c => (c.Pigments || []).length === 1)
+        .map(c => [
+            (c.Pigments || [])[0],
             c.Name
         ]));
 
@@ -61,7 +70,8 @@ export const processColors = (colors: Color[]): Colors => {
 
     const thatHaveAConstituent = (constituent: Color) =>
         withPigmentSets.filter(({pigmentSet,color}) => 
-            constituent.Pigments.every(p => pigmentSet.has(p))
+            constituent.Pigments.length > 0 
+            && constituent.Pigments.every(p => pigmentSet.has(p))
             && color !== constituent)
         .map(({color}) => color);
 
@@ -69,13 +79,14 @@ export const processColors = (colors: Color[]): Colors => {
         product.Pigments.length === 1 
         ? []
         : product.Pigments
-            .map(p => byName[singlePigmentColors[p]])
+            .map(p => byName[singlePigmentColorNames[p]])
             .filter(otherC => !!otherC);
 
     return {
         bbox,
         byName,
         byPigment,
+        singlePigmentColorNames,
         singlePigmentColors,
         withPigmentSets,
         all: colors,
