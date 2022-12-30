@@ -132,7 +132,7 @@ const ColorMap =({
       //fitStageIntoParentContainer();
       //window.addEventListener('resize', fitStageIntoParentContainer);
       return () => window.removeEventListener('resize',fitStageIntoParentContainer);
-    }, [stageParent]);
+    }, [stageParent,sceneH,sceneW]);
     return (
         <div style={{width: '100%'}} ref={stageParent}>
         <Stage 
