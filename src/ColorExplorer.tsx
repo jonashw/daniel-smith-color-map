@@ -1,6 +1,6 @@
 import React from 'react';
 import ColorMap from './ColorMap';
-import { Color, Colors } from './Color';
+import { Color, Colors, ConnectionSettings } from './Color';
 declare global {
     interface Window {
         colors: Colors;
@@ -72,6 +72,7 @@ function ColorExplorer({colors} : {colors: Colors}) {
   const [selectedColors,setSelectedColors] = React.useState<Set<Color>>(new Set<Color>());
   const [singlesOnly,setSinglesOnly] = React.useState<boolean>(false);
   const [onlyActiveNeighborhoodVisible, setOnlyActiveNeighborhoodVisible] = React.useState(false);
+  const [connectionsVisible, setConnectionsVisible] = React.useState<ConnectionSettings>({incoming:true,outgoing:true});
   const [colorProfilePopupOpen,setColorProfilePopupOpen] = React.useState(false);
 
   const availableColors: Color[] = singlesOnly ? colors.all.filter(c => c.Pigments.length === 1) : colors.all;
@@ -108,11 +109,24 @@ function ColorExplorer({colors} : {colors: Colors}) {
         <div className="col-12 col-sm-6">
           <div>
             <button onClick={() => setSinglesOnly(!singlesOnly)}>Singles Only</button>
+            {([
+                ['Incoming',connectionsVisible.incoming, v => setConnectionsVisible({...connectionsVisible, incoming: v})],
+                ['Outgoing',connectionsVisible.outgoing, v => setConnectionsVisible({...connectionsVisible, outgoing: v})]
+            ] as [string,boolean,(v:boolean) => void][]).map(([label,visible,setter]) =>
+                <div>
+                <label>
+                    <input type="checkbox" defaultChecked={visible} onChange={e => setter(e.target.checked)}/>
+                    {" "}
+                    {label} connections visible
+                </label>
+                </div>
+            )}
           </div>
           <ColorMap 
             visibleColors={availableColors}
             colors={colors}
             {...{
+                connectionsVisible,
                 onlyActiveNeighborhoodVisible,
                 setColorProfilePopupOpen,
                 activeColor,

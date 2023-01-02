@@ -1,3 +1,5 @@
+export type ConnectionSettings = {incoming: boolean;  outgoing: boolean; }
+
 export type Color = {
     Name:  string;
     SwatchUrl: string;

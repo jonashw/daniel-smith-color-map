@@ -1,7 +1,7 @@
 //import Konva from 'konva';
 import React from 'react';
 import { Layer, Stage, Text, Line, Circle, Arrow} from 'react-konva';
-import {Color,Colors} from './Color';
+import {Color,Colors,ConnectionSettings} from './Color';
 const spatialScale = 4;
 
 //new Konva.Text().measureSize()
@@ -47,7 +47,8 @@ const ColorMap =({
     setActiveColor,
     selectedColors,
     toggleSelectedColor,
-    setColorProfilePopupOpen
+    setColorProfilePopupOpen,
+    connectionsVisible
 } : {
     colors: Colors,
     visibleColors: Color[],
@@ -56,7 +57,8 @@ const ColorMap =({
     setActiveColor: (c: Color | undefined) => void,
     selectedColors: Set<Color>,
     toggleSelectedColor: (c: Color) => void,
-    setColorProfilePopupOpen: (o:boolean) => void
+    setColorProfilePopupOpen: (o:boolean) => void,
+    connectionsVisible: ConnectionSettings
 }) => {
     const viewColorPopup = (color:Color) => {
         setActiveColor(color);
@@ -166,7 +168,7 @@ const ColorMap =({
                     <ColorLabel color={activeColor} /> 
                     </>
                 }
-                {activeColor && 
+                {connectionsVisible.outgoing && activeColor && 
                     colors.thatHaveAConstituent(activeColor)
                         .map(color => {
                             return <>
@@ -176,7 +178,7 @@ const ColorMap =({
                             </>;
                         })
                     }
-                {activeColor && 
+                {connectionsVisible.incoming && activeColor && 
                     colors.thatAreConstituentsOf(activeColor)
                         .map(constituent => {
                             return <>
