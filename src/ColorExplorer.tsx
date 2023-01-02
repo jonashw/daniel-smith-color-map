@@ -74,6 +74,7 @@ function ColorExplorer({colors} : {colors: Colors}) {
   const [onlyActiveNeighborhoodVisible, setOnlyActiveNeighborhoodVisible] = React.useState(false);
   const [connectionsVisible, setConnectionsVisible] = React.useState<ConnectionSettings>({incoming:true,outgoing:true});
   const [colorProfilePopupOpen,setColorProfilePopupOpen] = React.useState(false);
+  const [viewPalette, setViewPalette] = React.useState(false);
 
   const availableColors: Color[] = singlesOnly ? colors.all.filter(c => c.Pigments.length === 1) : colors.all;
   const toggleSelectedColor = (c: Color) => 
@@ -109,6 +110,7 @@ function ColorExplorer({colors} : {colors: Colors}) {
         <div className="col-12 col-sm-6">
           <div>
             <button onClick={() => setSinglesOnly(!singlesOnly)}>Singles Only</button>
+            {viewPalette && <button onClick={() => setViewPalette(false)}>View all colors</button>}
             {([
                 ['Incoming',connectionsVisible.incoming, v => setConnectionsVisible({...connectionsVisible, incoming: v})],
                 ['Outgoing',connectionsVisible.outgoing, v => setConnectionsVisible({...connectionsVisible, outgoing: v})]
@@ -123,7 +125,7 @@ function ColorExplorer({colors} : {colors: Colors}) {
             )}
           </div>
           <ColorMap 
-            visibleColors={availableColors}
+            visibleColors={viewPalette ? Array.from(selectedColors) : availableColors}
             colors={colors}
             {...{
                 connectionsVisible,
@@ -136,7 +138,7 @@ function ColorExplorer({colors} : {colors: Colors}) {
             }}
           />
         </div>
-        <div className="col-3 d-none d-sm-flex" style={{height:'100vh',overflowY:'auto'}}>
+        <div className="col-12 col-sm-3" style={{height:'100vh',overflowY:'auto'}}>
             <div
                 onMouseOver={() => setOnlyActiveNeighborhoodVisible(true)}
                 onMouseOut={() => setOnlyActiveNeighborhoodVisible(false)}
@@ -153,6 +155,7 @@ function ColorExplorer({colors} : {colors: Colors}) {
                 )}
             <hr/>
             <h3>Your palette ({selectedColors.size})</h3>
+            <button onClick={() => setViewPalette(true)} disabled={viewPalette}>View on map</button>
             {Array.from(selectedColors).map(c =>
                 <div
                 key={c.Name}
