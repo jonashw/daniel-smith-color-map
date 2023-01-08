@@ -146,11 +146,21 @@ function ColorExplorer({colors} : {colors: Colors}) {
                 {availableColors.map(c => 
                     <div
                     key={c.Name}
-                    className={'px-2 ' + (c === activeColor || selectedColors.has(c) ? 'bg-primary text-white' : '')}
+                    className={'d-flex px-2 ' + (c === activeColor || selectedColors.has(c) ? 'bg-primary text-white' : '')}
                     onMouseOver={() => setActiveColor(c)}
                     onClick={() => toggleSelectedColor(c)}
                     >
-                    {c.Name}
+                        <span style={{
+                            display:'inline-block',
+                            width:'1em',
+                            height:'1em',
+                            alignSelf:'center',
+                            background: `rgba(${c.RGBA})`,
+                            border: '1px solid black',
+                            borderRadius:'50%',
+                            marginRight: '0.5em'
+                        }}/>
+                        {c.Name}
                     </div>
                 )}
             <hr/>
