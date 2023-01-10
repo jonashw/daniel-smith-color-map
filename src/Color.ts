@@ -21,28 +21,52 @@ export type BBox = {xmin:number; xmax:number; ymin:number; ymax:number;};
 
 export type Colors = {
     bbox: BBox;
-    byPigment: {[pigment: string]: string[]};
+    byPigment: {[pigment: string]: Color[]};
     byName: {[name: string]: Color};
     singlePigmentColorNames: {[pigment: string]: string};
     singlePigmentColors: {[pigment: string]: Color};
+    singlePigmentColorNamesFixed: {[pigment: string]: string[]};
+    singlePigmentColorsFixed: {[pigment: string]: Color[]};
     all: Color[];
     withPigmentSets: {color: Color; pigmentSet: Set<string>}[];
     thatHaveAConstituent: (c: Color) => Color[];
     thatAreConstituentsOf: (product: Color) => Color[];
+    pigments: string[];
 }
 
 export const processColors = (colors: Color[]): Colors => {
     colors.sort((a,b) => a.Name > b.Name ? 1 : a.Name < b.Name ? -1 : 0);
     const byName = Object.fromEntries(colors.map(c => [c.Name, c]));
 
-    const byPigment: {[pigment: string]: string[]} = 
+    const byPigment: {[pigment: string]: Color[]} = 
         colors
-        .flatMap(c => (c.Pigments || []).map(p => [p,c.Name]))
-        .reduce((colorsByPigment,[p,c]) => {
-            colorsByPigment[p] = colorsByPigment[p] || [];
-            colorsByPigment[p].push(c);
+        .reduce((colorsByPigment,c) => {
+            for(let p of c.Pigments){
+                colorsByPigment[p] = colorsByPigment[p] || [];
+                colorsByPigment[p].push(c);
+            }
             return colorsByPigment;
-        }, {} as {[pigment: string]: string[]});
+        }, {} as {[pigment: string]: Color[]});
+
+    const singlePigmentColorsFixed: {[pigment:string]: Color[]} = 
+        colors
+        .filter(c => c.Pigments.length === 1)
+        .reduce((byPigment,c) => {
+            let p = c.Pigments[0];
+            byPigment[p] = byPigment[p] || [];
+            byPigment[p].push(c);
+            return byPigment;
+        },{} as {[pigment:string]: Color[]});
+
+    const singlePigmentColorNamesFixed: {[pigment:string]: string[]} = 
+        colors
+        .filter(c => c.Pigments.length === 1)
+        .reduce((byPigment,c) => {
+            let p = c.Pigments[0];
+            byPigment[p] = byPigment[p] || [];
+            byPigment[p].push(c.Name);
+            return byPigment;
+        },{} as {[pigment:string]: string[]});
 
     const singlePigmentColors = Object.fromEntries(
         colors
@@ -83,6 +107,8 @@ export const processColors = (colors: Color[]): Colors => {
         : product.Pigments
             .map(p => byName[singlePigmentColorNames[p]])
             .filter(otherC => !!otherC);
+    
+    const pigmentNameRegex = /^P/;
 
     return {
         bbox,
@@ -90,9 +116,12 @@ export const processColors = (colors: Color[]): Colors => {
         byPigment,
         singlePigmentColorNames,
         singlePigmentColors,
+        singlePigmentColorNamesFixed,
+        singlePigmentColorsFixed,
         withPigmentSets,
         all: colors,
         thatHaveAConstituent,
-        thatAreConstituentsOf
+        thatAreConstituentsOf,
+        pigments: Object.keys(byPigment).filter(p => pigmentNameRegex.test(p)).sort()
     };
 };

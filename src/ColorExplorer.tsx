@@ -76,7 +76,18 @@ function ColorExplorer({colors} : {colors: Colors}) {
   const [colorProfilePopupOpen,setColorProfilePopupOpen] = React.useState(false);
   const [viewPalette, setViewPalette] = React.useState(false);
 
-  const availableColors: Color[] = singlesOnly ? colors.all.filter(c => c.Pigments.length === 1) : colors.all;
+  const [colorKeyword,setColorKeyword] = React.useState('');
+  const [activePigment,setActivePigment] = React.useState<undefined|string>(undefined);
+  const availableColors: Color[] = 
+  (() => {
+    let a = 
+        (!!activePigment && activePigment in colors.byPigment ? colors.byPigment[activePigment] : colors.all)
+        .filter(c => !singlesOnly || c.Pigments.length === 1);
+    let kw = colorKeyword?.trim()?.toLowerCase() || '';
+    return kw.length > 0
+        ? a.filter(c => c.Name.toLowerCase().indexOf(kw) > -1)
+        : a;
+  })();
   const toggleSelectedColor = (c: Color) => 
     setSelectedColors(
         selectedColors.has(c) 
@@ -139,6 +150,14 @@ function ColorExplorer({colors} : {colors: Colors}) {
           />
         </div>
         <div className="col-12 col-sm-3" style={{height:'100vh',overflowY:'auto'}}>
+            <input type="search" className="form-control"
+                value={colorKeyword}
+                placeholder="Search colors by name..."
+                onChange={e => {
+                    setColorKeyword(e.target.value);
+                    e.preventDefault();
+                }}
+            />
             <div
                 onMouseOver={() => setOnlyActiveNeighborhoodVisible(true)}
                 onMouseOut={() => setOnlyActiveNeighborhoodVisible(false)}
@@ -184,6 +203,25 @@ function ColorExplorer({colors} : {colors: Colors}) {
                 onMouseOver={() => setActiveColor(c)}
                 >
                 {c.Name}
+                </div>
+            )}
+            <h3>By Pigment</h3>
+            {colors.pigments.map(p => 
+                <div 
+                    onMouseOver={() => setActivePigment(p)}
+                    onMouseOut={() => setActivePigment(undefined)}
+                >
+                    {p} ({(colors.byPigment[p] || []).length})
+                    <div>
+                        {colors.byPigment[p].filter(c => !singlesOnly || c.Pigments.length === 1).map(c =>
+                            <div
+                                style={{paddingLeft:'1em'}} 
+                                onMouseOver={() => setActiveColor(c)}
+                            >
+                                {c.Name}
+                            </div>
+                        )}
+                    </div>
                 </div>
             )}
             </div>
