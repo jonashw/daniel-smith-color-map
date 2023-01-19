@@ -17,6 +17,11 @@ export type Color = {
     Series: number;
 };
 
+export type Palette = {
+    name: string;
+    colors: Color[];
+};
+
 export type BBox = {xmin:number; xmax:number; ymin:number; ymax:number;};
 
 export type Colors = {

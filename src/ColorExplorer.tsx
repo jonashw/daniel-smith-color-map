@@ -1,6 +1,11 @@
 import React from 'react';
 import ColorMap from './ColorMap';
-import { Color, Colors, ConnectionSettings } from './Color';
+import { Color, Colors, ConnectionSettings, Palette } from './Color';
+import ColorProfile from './ColorProfile';
+//import {CreateFacetedIndex} from 'simple-faceted-search-engine-in-JavaScript/src/model/CreateFacetedIndex';
+//import { FacetedIndexInstance, Query, RecordWithMetadata, SearchResult } from 'simple-faceted-search-engine-in-JavaScript/src/model/types';
+//import SearchFilters from 'simple-faceted-search-engine-in-JavaScript/src/components/SearchFilters';
+
 declare global {
     interface Window {
         colors: Colors;
@@ -8,66 +13,62 @@ declare global {
     }
 }
 
-const ColorProfile = ({
-    color,
-    colors,
-    setActiveColor
-}: {
-    color:Color,
-    colors:Colors,
-    setActiveColor: (c:Color) => void
-}) =>
-    <div>
-        <h5>{color.Name}</h5>
-        <table className="table table-bordered table-sm">
-            <tbody>
-                <tr>
-                    <th>Pigment(s)</th>
-                    <td>{color.Pigments.map(p =>
-                        <div key={p}>
-                            {color.Pigments.length > 1 && p in colors.singlePigmentColors
-                                ? <div onClick={() => setActiveColor(colors.singlePigmentColors[p])}>
-                                    {p} ({colors.singlePigmentColors[p].Name})
-                                </div>
-                                : p}
-                        </div>
-                    )}</td>
-                </tr>
-                <tr>
-                    <th>Staining</th>
-                    <td>{color.Staining}</td>
-                </tr>
-                <tr>
-                    <th>Lightfastness</th>
-                    <td>{color.Lightfastness}</td>
-                </tr>
-                <tr>
-                    <th>Granulation</th>
-                    <td>{color.Granulation}</td>
-                </tr>
-                <tr>
-                    <th>Transparency</th>
-                    <td>{color.Transparency}</td>
-                </tr>
-                <tr>
-                    <th>Series</th>
-                    <td>{color.Series}</td>
-                </tr>
-            </tbody>
-        </table>
-        <img src={color.SwatchUrl} className="d-none d-sm-inline" style={{ height: '250px' }} alt={"Swatch of " + color.Name} />
-        <img src={color.SwatchUrl} className="d-inline d-sm-none" alt={"Swatch of " + color.Name} />
-        {
-            colors.thatHaveAConstituent(color)
-                .map(color => 
-                <div
-                    onClick={() => setActiveColor(color)}
-                    key={color.Name}
-                >{color.Name}</div>)
-        }
-    </div>;
-
 function ColorExplorer({colors} : {colors: Colors}) {
+  const [palettes,setPalettes] = React.useState<Palette[]>([]);
+  const [activePaletteNum,setActivePaletteNum] = React.useState<number|undefined>();
+  const activePalette = activePaletteNum === undefined ? undefined : palettes[activePaletteNum];
+  const createNewPalette = () => {
+    let name = prompt('What is the new palette\'s name?','Palette #' + (palettes.length+1));
+    if(!name){
+        alert('invalid name');
+        return;
+    }
+    setPalettes([...palettes, {name, colors:[]}])
+  };
+
+  const removePaletteColor = (palette: Palette, color: Color) => {
+    let newPalettes = palettes.map(p => p != palette ? p : {name:p.name, colors: p.colors.filter(c => c != color) });
+    setPalettes(newPalettes);
+  };
+
+  const addPaletteColor = (palette: Palette, color: Color) => {
+    let newPalettes = palettes.map(p => p != palette ? p : {name:p.name, colors: [...p.colors, color]});
+    setPalettes(newPalettes);
+  };
+  /*
+  const [ix,setIx] = React.useState<FacetedIndexInstance|undefined>(undefined);
+  const [query,setQuery] = React.useState<Query>({});
+  const [searchResult,setSearchResult] = React.useState<SearchResult|undefined>(undefined);
+
+  React.useEffect(() => {
+    let ix = CreateFacetedIndex(colors.all, {
+        fields: {
+            display: new Set<string>(),
+            facet: new Set<string>([
+                'Pigments',
+                'Series',
+                'Lightfastness',
+                'Staining',
+                'Granulation',
+                'Transparency'
+            ])
+        },
+        facet_term_parents: {}
+    });
+    setIx(ix);
+  }, [colors]);
+
+  React.useEffect(() => {
+    if(!ix){
+        return;
+    }
+    if(!query){
+        return;
+    }
+    setSearchResult(ix.search(query));
+  }, [ix, query]);
+  */
+
   const [activeColor,setActiveColor] = React.useState<Color|undefined>(undefined);
   const [selectedColors,setSelectedColors] = React.useState<Set<Color>>(new Set<Color>());
   const [singlesOnly,setSinglesOnly] = React.useState<boolean>(false);
@@ -104,6 +105,84 @@ function ColorExplorer({colors} : {colors: Colors}) {
 
   return (
     <div className="container-fluid">
+        <div className="row">
+            <div className="col-3">
+                <div className="list-group">
+                    {palettes.map((p,i) => 
+                        <div className="list-group-item">
+                            <a className="list-group-link"
+                                style={{cursor:'pointer'}}
+                                onClick={() => setActivePaletteNum(i)}
+                            >
+                                {p.name}
+                            </a>
+                            <div className="text-muted text-sm">
+                                {p.colors.length} colors
+                            </div>
+                        </div>
+                    )}
+                    <div className="list-group-item">
+                        <button className="btn btn-block btn-primary" onClick={() => createNewPalette()}>
+                            New Palette
+                        </button>
+                    </div>
+                </div>
+            </div>
+            {activePalette && 
+                <div className="col-9">
+                    <h3>{activePalette.name}</h3>
+                    <div className="row">
+                        {activePalette.colors.map(c => 
+                            <div className="col-1" onClick={() => {
+                                if(window.confirm('Remove from palette?')){
+                                    removePaletteColor(activePalette,c);
+                                }
+                            }}>
+                                <img src={c.SwatchUrl} alt={c.Name} className="img-fluid"/>
+                                <br/>
+                                <div className="text-sm" style={{fontSize:'0.5em'}}>
+                                    {c.Name}
+                                </div>
+                            </div>
+                        )}
+                    </div>
+                    <ColorMap 
+                        visibleColors={activePalette.colors}
+                        onlyActiveNeighborhoodVisible={false}
+                        colors={colors}
+                        connectionsVisible={{
+                            incoming: false,
+                            outgoing: false
+                        }}
+                        {...{
+                            setColorProfilePopupOpen,
+                            activeColor,
+                            setActiveColor,
+                            selectedColors,
+                            toggleSelectedColor
+                        }}
+                    />
+
+                </div>
+            }
+        </div>
+
+      {/*!!searchResult && 
+        <div className="row">
+            <div className="col-3">
+                <SearchFilters
+                    query={query}
+                    setQuery={setQuery}
+                    debug={false}
+                    searchResult={searchResult}
+                    term_is_selected={(f,t) => f in query && query[f].indexOf(t) > -1}
+                />
+            </div>
+            <div className="col-9">
+                {searchResult.records.length}
+            </div>
+        </div>
+      */}
       <div className={"row " + (!colorProfilePopupOpen ? "d-none" : "d-flex")}>
         <div className="col-12 py-3">
             <button type="button"
@@ -111,12 +190,16 @@ function ColorExplorer({colors} : {colors: Colors}) {
                 aria-label="Close"
                 onClick={() => setColorProfilePopupOpen(false)}
             />
-            {activeColor && <ColorProfile colors={colors} color={activeColor} setActiveColor={setActiveColor} />}
+            {activeColor && <ColorProfile colors={colors} color={activeColor} setActiveColor={setActiveColor}
+                {...{palettes,addPaletteColor,removePaletteColor}}    />}
         </div>
       </div>
       <div className={"row " + (colorProfilePopupOpen ? "d-none" : "d-flex")}>
         <div className="col-3 d-none d-sm-flex" style={{height:'100vh',overflowY:'auto'}}>
-          {!!activeColor && <ColorProfile color={activeColor} colors={colors} setActiveColor={setActiveColor} />}
+          {!!activeColor && 
+            <ColorProfile color={activeColor} colors={colors} setActiveColor={setActiveColor} 
+                {...{palettes,addPaletteColor,removePaletteColor}}
+            />}
         </div>
         <div className="col-12 col-sm-6">
           <div>
@@ -148,6 +231,7 @@ function ColorExplorer({colors} : {colors: Colors}) {
                 toggleSelectedColor
             }}
           />
+        
         </div>
         <div className="col-12 col-sm-3" style={{height:'100vh',overflowY:'auto'}}>
             <input type="search" className="form-control"
@@ -227,6 +311,18 @@ function ColorExplorer({colors} : {colors: Colors}) {
             </div>
           </div>
       </div>
+      <div className="row">
+        {availableColors.map(c => 
+            <div
+            key={c.Name}
+            className={'col-1 '+ (c === activeColor || selectedColors.has(c) ? 'bg-primary text-white' : '')}
+            onMouseOver={() => setActiveColor(c)}
+            onClick={() => toggleSelectedColor(c)}
+            >
+                <img src={c.SwatchUrl} className="img-fluid" title={c.Name} alt={c.Name}/>
+            </div>
+        )}
+        </div>
     </div>
   );
 }
